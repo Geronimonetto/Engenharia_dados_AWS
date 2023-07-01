@@ -10,7 +10,7 @@
 <section>
       <figure class="gif">
             <div align="Center">
-                <img widht="500" height="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thinking_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/640px-Thinking_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif">
+                <img width="1000" height="250" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
             </div>
       </figure>
 </section>
@@ -24,28 +24,28 @@
 
 ---
 
--  []()
--  []()
+-  [Introdução]()
+-  [Comandos fundamentais GIT]()    
+    -  [O que é um repositório ?]()
     -  []()
     -  []()
     -  []()
     -  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
--  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
+    -  []()
 
 
