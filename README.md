@@ -10,42 +10,33 @@
 <section>
       <figure class="gif">
             <div align="Center">
-                <img width="1000" height="250" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
+                <img width="1300" height="500" src="https://i.imgur.com/TDA5LvB.jpg">
             </div>
       </figure>
 </section>
+
+<div align="Center">
+  <i>Roadmap para Engenheiro de Dados</i>
+</div>
 
 
 ---
 
 <div align="Center">
-    <img width = "100" Height= "50" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
+    <img width = "300" Height= "100" src="https://alyssonmach.github.io/Minicurso-Git-e-GitHub/img/5.png">
+
 </div>
+
 
 ---
 
+
 -  [Introdução]()
 -  [Comandos fundamentais GIT]()    
-    -  [O que é um repositório ?]()
+-  []()
     -  []()
     -  []()
     -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
-    -  []()
+
 
 
