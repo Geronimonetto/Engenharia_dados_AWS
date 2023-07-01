@@ -5,3 +5,13 @@
 </h1>
   
 </div>
+
+<section>
+      <figure class="gif">
+            <img src="">
+      </figure>
+</section>
+<div>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
+    
+</div>
