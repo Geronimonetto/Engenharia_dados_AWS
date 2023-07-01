@@ -16,17 +16,18 @@
 </section>
 
 <div align="Center">
-  <i>Roadmap para Engenheiro de Dados</i>
-</div>
 
+</div>
+<br/>
+<br/>
+<br/>
 
 ---
 
 <div align="Center">
-    <img width = "300" Height= "100" src="https://alyssonmach.github.io/Minicurso-Git-e-GitHub/img/5.png">
+  <img width = "100" Height= "50" src="https://i.imgur.com/mYjB0i4.png">
 
 </div>
-
 
 ---
 
