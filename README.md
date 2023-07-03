@@ -44,8 +44,7 @@
 
 ---
 <div align="Center">
-  <img width = "100" Height= "50" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png">
-
+  <img width = "200" Height= "200" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png">
 </div>
 
 ---
