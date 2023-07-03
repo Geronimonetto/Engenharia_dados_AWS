@@ -44,7 +44,7 @@
 
 ---
 <div align="Center">
-  <img width = "200" Height= "200" src="https://i.imgur.com/Ni3FkXK.png">
+  <img width = "150" Height= "80" src="https://i.imgur.com/6anBgGL.png">
 </div>
 
 ---
