@@ -43,5 +43,9 @@
 -  [Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/08.Markdown)
 
 ---
+<div align="Center">
+  <img width = "100" Height= "50" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png">
+
+</div>
 
 ---
