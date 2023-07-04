@@ -11,6 +11,9 @@
       <figure class="gif">
             <div align="Center">
                 <img width="1300" height="500" src="https://i.imgur.com/TDA5LvB.jpg">
+              <div align="right">
+                <i>Roadmap para Engenhario de dados AWS </i> <img align = "right" width="120" height="50" src="https://i.imgur.com/ibKb35H.png">
+              </div>
             </div>
       </figure>
 </section>
@@ -44,7 +47,7 @@
 
 ---
 <div align="Center">
-  <img width = "200" Height= "200" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo-0.png">
+  <img width = "150" Height= "80" src="https://i.imgur.com/6anBgGL.png">
 </div>
 
 ---
