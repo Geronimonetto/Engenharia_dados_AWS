@@ -52,7 +52,7 @@
 
 ---
 
--  [Instalação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/01.Instala%C3%A7%C3%A3o)
+-  [Instalação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/01.Instala%C3%A7%C3%A3o)
 -  [Teoria sobre Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/02.Teoria_sobre_Linux)
 -  [Comandos de Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/03.Comandos_B%C3%A1sicos_Linux)
 -  [Gerenciamento de arquivos e diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/04.Gerenciamento_de_arquivo_e_diretorio)
