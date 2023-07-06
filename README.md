@@ -8,7 +8,8 @@
   <h5>INSTITUIÇÃO: UNINABUCO</h5>
   <h5>SEMESTRE ATUAL:  4° Semestre</h5>
   <h5>EXPERIÊNCIA: Primeira oportunidade na área de tecnologia com a Compass.UOL</h5>
-  
+  <h5>HOBBIES: Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</h5>
+  <h5>SKILLS: Proatividade, Comunicação, Empatia, Determinação </h5>
   </i>
 </div>
 <div align="Center">
@@ -57,10 +58,5 @@
 -  [Dicas de Commits](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/06.Dicas%20de%20Commits)
 -  [Interface Github](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/07.Interface%20Github)
 -  [Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/08.Markdown)
-
----
-<div align="Center">
-  <img width = "150" Height= "80" src="https://i.imgur.com/6anBgGL.png">
-</div>
 
 ---
