@@ -6,15 +6,15 @@
 ---
 
 
--  [Introdução](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint%2001/Git_Github_Markdown/01.Conte%C3%BAdo%20Fundamental%20Git/1.0%20Introdu%C3%A7%C3%A3o.pdf)
--  [Conceitos e Comandos fundamentais GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/01.Conte%C3%BAdo%20Fundamental%20Git)    
--  [Branchs](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/02.Branchs)
--  [Compartilhamento e Atualização](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/03.Compartilhamento%20e%20Atualiza%C3%A7%C3%A3o)
--  [Análise e inspeção de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/04.An%C3%A1lise%20e%20inspe%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
--  [Administração de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/05.Administra%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
--  [Dicas de Commits](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/06.Dicas%20de%20Commits)
--  [Interface Github](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/07.Interface%20Github)
--  [Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/08.Markdown)
+-  [Introdução]()
+-  [Conceitos e Comandos fundamentais GIT]()    
+-  [Branchs]()
+-  [Compartilhamento e Atualização]()
+-  [Análise e inspeção de repositório]()
+-  [Administração de repositório]()
+-  [Dicas de Commits]()
+-  [Interface Github]()
+-  [Markdown]()
 
 ---
 <div align="Center">
@@ -25,14 +25,16 @@
 ---
 
 
--  [Introdução]()
--  [Conceitos e Comandos fundamentais GIT]()    
--  [Branchs]()
--  [Compartilhamento e Atualização]()
--  [Análise e inspeção de repositório]()
--  [Administração de repositório]()
--  [Dicas de Commits]()
--  [Interface Github]()
--  [Markdown]()
+-  [01.Instalação]()
+-  [02.Teoria_sobre_Linux]()    
+-  [03.Comandos_Básicos_Linux]()
+-  [04.Gerenciamento_de_arquivo_e_diretorio]()
+-  [05.Gerenciamento_de_pacotes]()
+-  [06.Filtros_busca_arquivos]()
+-  [07.Editores_textos]()
+-  [08.Gerenciamento_usuarios_Grupos]()
+-  [09.Gerenciamento_de_permissões]()
+-  [10.Gerenciamento_básico_de_r]()
+-  [11.Compactação_e_descompactação_de_arquivos_e_diretórios]()
 
 ---
