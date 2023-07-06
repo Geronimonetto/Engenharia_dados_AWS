@@ -17,6 +17,9 @@
 -  [Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Git_Github_Markdown/08.Markdown)
 
 ---
+<div align="Center">
+  <img width = "100" Height= "150" src="https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-logotipo-do-linux.png">
+
 </div>
 
 ---
