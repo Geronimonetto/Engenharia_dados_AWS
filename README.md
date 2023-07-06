@@ -1,7 +1,20 @@
 <div align="Center">
+<h1>Apresentando-me</h1>
+</div>
+<div align="right">
+  <h4><i>NOME: Geronimo Morais</i></h3> 
+  <h5><i>IDADE: 28 anos</h5>
+  <h5>CIDADE: Recife-PE</h5>
+  <h5>INSTITUIÇÃO: UNINABUCO</h5>
+  <h5>SEMESTRE ATUAL:  4° Semestre</h5>
+  <h5>EXPERIÊNCIA: Primeira oportunidade na área de tecnologia com a Compass.UOL</h5>
+  
+  </i>
+</div>
+<div align="Center">
 
 <h1>
-  Engenharia de dados AWS
+  Roadmap Engenharia de dados AWS
 </h1>
 
 </div>
@@ -11,9 +24,9 @@
       <figure class="gif">
             <div align="Center">
                 <img width="1300" height="500" src="https://i.imgur.com/TDA5LvB.jpg">
-              <div align="right">
-                <i>Roadmap para Engenhario de dados AWS </i> <img align = "right" width="120" height="50" src="https://i.imgur.com/ibKb35H.png">
-              </div>
+               <div align="right">
+                 <img align = "right" width="120" height="50" src="https://i.imgur.com/ibKb35H.png">
+               </div>
             </div>
       </figure>
 </section>
@@ -51,8 +64,3 @@
 </div>
 
 ---
-
--  [Instalação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/01.Instala%C3%A7%C3%A3o)
--  [Teoria sobre Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/02.Teoria_sobre_Linux)
--  [Comandos de Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/03.Comandos_B%C3%A1sicos_Linux)
--  [Gerenciamento de arquivos e diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint%2001/Linux/04.Gerenciamento_de_arquivo_e_diretorio)
