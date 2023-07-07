@@ -51,11 +51,12 @@
 ## Evidências
 
 -  [01.Evidências do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Evid%C3%AAncias)
-    -  [1.1 Adicionando Colaborador](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/adicionando_colaborador.PNG)
-    -  [1.2.Criando README.md](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/Criando_README.PNG)
-    -  [1.2.Criando Repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/Criando_Reposit%C3%B3rio.PNG)
-    -  [1.3.Início do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/parte_inicial.PNG)
-    -  [1.4 Final do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/Parte_Final_Projeto.PNG)
+    -  [1.1 Adicionando Colaborador](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.1.Adicionando_Colaborador.PNG)
+    -  [1.2.Criando README.md](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.2.Criando_README.PNG)
+    -  [1.3.Criando Repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.3.Criando_Reposit%C3%B3rio.PNG)
+    -  [1.4.Início do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.4.Parte_Inicial.PNG)
+    -  [1.5 Final do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.5.Parte_Final_Projeto.PNG)
+    -  [1.6.Vinculando ao Vscode](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.6.Vinculando_Vscode.PNG)
 
 ## Certificados
 
