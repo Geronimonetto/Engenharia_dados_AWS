@@ -49,39 +49,17 @@
     -   [2.3.Resultado Quiz 03](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_03_Linux.PNG)
     -   [2.4.Resultado Quiz 04](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_04_Linux.PNG)
 
-# Evidências
+## Evidências
 
-### 1.1 - Adicionando Colaborador
-
-![1.1 Adicionando Colaborador](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.1.Adicionando_Colaborador.PNG)
-
-### 1.2 - Criando README.md
-
-![1.2.Criando README.md](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.2.Criando_README.PNG)
-
-### 1.3 - Criando Repositório
-
-![1.3.Criando Repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.3.Criando_Reposit%C3%B3rio.PNG)
-
-### 1.4 - Início do Projeto
-
-![1.4.Início do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.4.Parte_Inicial.PNG)
-
-### 1.5 - Final do Projeto
-
-![1.5 Final do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.5.Parte_Final_Projeto.PNG)
-
-### 1.6 - Vinculando ao Vscode
-
-![1.6.Vinculando ao Vscode](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.6.Vinculando_Vscode.PNG)
+   -  [1.1 Adicionando Colaborador](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.1.Adicionando_Colaborador.PNG)
+   -  [1.2.Criando README.md](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.2.Criando_README.PNG)
+   -  [1.3.Criando Repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.3.Criando_Reposit%C3%B3rio.PNG)
+   -  [1.4.Início do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.4.Parte_Inicial.PNG)
+   -  [1.5 Final do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.5.Parte_Final_Projeto.PNG)
+   -  [1.6.Vinculando ao Vscode](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.6.Vinculando_Vscode.PNG)
 
 # Certificados
 
-### 01. Certificado GIT/GITHUB 
-
-![Certificado GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_GIT.jpg)
-
-### 02. Certificado Linux
-
-![Certificado Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_Linux.jpg)
+-  [Certificado GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_GIT.jpg)
+-  [Certificado Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_Linux.jpg)
 
