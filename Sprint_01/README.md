@@ -1,48 +1,5 @@
 <div align="Center">
-<h1>Apresentando-me</h1>
-</div>
-<div align="right">
-  <h4><i>NOME: Geronimo Morais</i></h3> 
-  <h5><i>IDADE: 28 anos</h5>
-  <h5>CIDADE: Recife-PE</h5>
-  <h5>INSTITUIÇÃO: UNINABUCO</h5>
-  <h5>SEMESTRE ATUAL:  4° Semestre</h5>
-  <h5>EXPERIÊNCIA: Primeira oportunidade na área de tecnologia com a Compass.UOL</h5>
-  <h5>HOBBIES: Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</h5>
-  <h5>SKILLS: Proatividade, Comunicação, Empatia, Determinação </h5>
-  </i>
-</div>
-<div align="Center">
-
-<h1>
-  Roadmap Engenharia de dados AWS
-</h1>
-
-</div>
-
-
-<section>
-      <figure class="gif">
-            <div align="Center">
-                <img width="1300" height="500" src="https://i.imgur.com/TDA5LvB.jpg">
-               <div align="right">
-                 <img align = "right" width="120" height="50" src="https://i.imgur.com/ibKb35H.png">
-               </div>
-            </div>
-      </figure>
-</section>
-
-<div align="Center">
-
-</div>
-<br/>
-<br/>
-<br/>
-
----
-<div align="Center">
   <img width = "100" Height= "50" src="https://i.imgur.com/mYjB0i4.png">
-
 
 </div>
 
