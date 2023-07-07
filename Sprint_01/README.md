@@ -44,10 +44,11 @@
 -  [01.Exercícios Github ](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Exerc%C3%ADcios)
     - [1.1.Resultado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_GIT.PNG)   
 -  [02.Exercícios Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Exerc%C3%ADcios)
-    -   [2.1.Restulado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_Linux.PNG)
-    -   [2.2.Restulado Quiz 02](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_02_Linux.PNG)
-    -   [2.3.Restulado Quiz 03](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_03_Linux.PNG)
-    -   [2.4.Restulado Quiz 04](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_04_Linux.PNG)
+    -   [2.1.Resultado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_Linux.PNG)
+    -   [2.2.Resultado Quiz 02](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_02_Linux.PNG)
+    -   [2.3.Resultado Quiz 03](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_03_Linux.PNG)
+    -   [2.4.Resultado Quiz 04](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_04_Linux.PNG)
+
 # Evidências
 
 ### 1.1 - Adicionando Colaborador
