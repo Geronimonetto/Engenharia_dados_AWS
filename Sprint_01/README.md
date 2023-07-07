@@ -34,7 +34,7 @@
 -  [07.Editores_textos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/07.Editores_textos)
 -  [08.Gerenciamento_usuarios_Grupos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/08.Gerenciamento_usuarios_Grupos)
 -  [09.Gerenciamento_de_permissões](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/09.Gerenciamento_de_Permiss%C3%B5es)
--  [10.Gerenciamento_básico_de_r](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/10.Gerenciamento_b%C3%A1sico_de_redes)
+-  [10.Gerenciamento_básico_de_redes](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/10.Gerenciamento_b%C3%A1sico_de_redes)
 -  [11.Compactação_e_descompactação_de_arquivos_e_diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/11.Compacta%C3%A7%C3%A3o_e_Descompacta%C3%A7%C3%A3o)
 
 ---
