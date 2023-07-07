@@ -67,17 +67,16 @@
 
 ---
 
-
--  [01.Instalação]()
--  [02.Teoria_sobre_Linux]()    
--  [03.Comandos_Básicos_Linux]()
--  [04.Gerenciamento_de_arquivo_e_diretorio]()
--  [05.Gerenciamento_de_pacotes]()
--  [06.Filtros_busca_arquivos]()
--  [07.Editores_textos]()
--  [08.Gerenciamento_usuarios_Grupos]()
--  [09.Gerenciamento_de_permissões]()
--  [10.Gerenciamento_básico_de_r]()
--  [11.Compactação_e_descompactação_de_arquivos_e_diretórios]()
+-  [01.Instalação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/01.Instala%C3%A7%C3%A3o)
+-  [02.Teoria_sobre_Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/02.Teoria_sobre_Linux)    
+-  [03.Comandos_Básicos_Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/03.Comandos_B%C3%A1sicos_Linux)
+-  [04.Gerenciamento_de_arquivo_e_diretorio](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/04.Gerenciamento_de_arquivo_e_diretorio)
+-  [05.Gerenciamento_de_pacotes](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/05.Gerenciamento_de_pacotes)
+-  [06.Filtros_busca_arquivos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/06.Filtros_busca_arquivos)
+-  [07.Editores_textos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/07.Editores_textos)
+-  [08.Gerenciamento_usuarios_Grupos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/08.Gerenciamento_usuarios_Grupos)
+-  [09.Gerenciamento_de_permissões](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/09.Gerenciamento_de_Permiss%C3%B5es)
+-  [10.Gerenciamento_básico_de_r](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/10.Gerenciamento_b%C3%A1sico_de_redes)
+-  [11.Compactação_e_descompactação_de_arquivos_e_diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/11.Compacta%C3%A7%C3%A3o_e_Descompacta%C3%A7%C3%A3o)
 
 ---
