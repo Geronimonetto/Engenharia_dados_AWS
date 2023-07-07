@@ -38,3 +38,27 @@
 -  [11.Compactação_e_descompactação_de_arquivos_e_diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/11.Compacta%C3%A7%C3%A3o_e_Descompacta%C3%A7%C3%A3o)
 
 ---
+
+## Exercícios
+
+-  [01.Exercícios Github ](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Exerc%C3%ADcios)
+    - [1.1.Resultado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_GIT.PNG)   
+-  [02.Exercícios Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Exerc%C3%ADcios)
+    -   [2.1.Restulado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_Linux.PNG)
+    -   [2.2.Restulado Quiz 02](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_02_Linux.PNG)
+    -   [2.3.Restulado Quiz 03](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_03_Linux.PNG)
+    -   [2.4.Restulado Quiz 04](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_04_Linux.PNG)
+## Evidências
+
+-  [01.Evidências do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Evid%C3%AAncias)
+    -  [1.1 Adicionando Colaborador](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/adicionando_colaborador.PNG)
+    -  [1.2.Criando README.md](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/Criando_README.PNG)
+    -  [1.2.Criando Repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/Criando_Reposit%C3%B3rio.PNG)
+    -  [1.3.Início do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/parte_inicial.PNG)
+    -  [1.4 Final do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/Parte_Final_Projeto.PNG)
+
+## Certificados
+
+-  [01. Certificado GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_GIT.pdf)
+-  [02. Certificado Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_Linux.pdf)
+
