@@ -1,0 +1,29 @@
+Exportar o resultado da query que obtém os 10 livros mais caros para um arquivo CSV. Utilizar o caractere ; (ponto e vírgula) como separador. Lembre-se que o conteúdo do seu arquivo deverá respeitar a sequência de colunas e seus respectivos nomes de cabeçalho que listamos abaixo:
+
+
+
+CodLivro
+
+Titulo
+
+CodAutor
+
+NomeAutor
+
+Valor
+
+CodEditora
+
+NomeEditora
+
+Query:
+
+Select 
+	livro.cod as CodLivro, livro.titulo as Título, livro.autor as CodAutor,
+	autor.nome as NomeAutor, livro.valor as Valor, livro.editora as CodEditora,
+    editora.nome as NomeEditora
+From livro LEFT JOIN autor ON livro.autor = autor.codautor
+LEFT JOIN editora on editora.codeditora = livro.editora
+GROUP BY CodLivro,Título
+ORDER BY Valor DESC
+LIMIT 10;

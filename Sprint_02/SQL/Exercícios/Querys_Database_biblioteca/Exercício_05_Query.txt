@@ -1,0 +1,25 @@
+Exportar o resultado da query que obtém as 5 editoras com maior quantidade de livros na biblioteca para um arquivo CSV. Utilizar o caractere | (pipe) como separador. 
+Lembre-se que o conteúdo do seu arquivo deverá respeitar a sequência de colunas e seus respectivos nomes de cabeçalho que listamos abaixo:
+
+
+
+CodEditora
+
+NomeEditora
+
+QuantidadeLivros
+
+
+
+Observação: O arquivo exportado, conforme as especificações acima, deve ser 
+disponibilizado no GitHub. Abaixo (na caixa de envio), gentileza nos enviar o link do arquivo .csv que colocou no seu github.
+
+Query:
+
+SELECT 
+	editora.codeditora as CodEditora, editora.nome as NomeEditora,
+    count(cod) as QuantidadeLivros
+FROM editora LEFT JOIN livro on editora.codeditora = livro.editora
+GROUP by CodEditora,NomeEditora
+ORDER BY QuantidadeLivros DESC
+LIMIT 5
