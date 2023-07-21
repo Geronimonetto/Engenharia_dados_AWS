@@ -80,3 +80,20 @@
 -  [11.Compactação_e_descompactação_de_arquivos_e_diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/11.Compacta%C3%A7%C3%A3o_e_Descompacta%C3%A7%C3%A3o)
 
 ---
+<div align="Center">
+  <img width = "80" Height= "100" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png">
+
+</div>
+
+---
+
+-  [01.Comandos_Básicos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/01.Comandos_B%C3%A1sicos)
+-  [02.Operadores](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/02.Operadores)    
+-  [03.Funções de Agregação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/03.Fun%C3%A7%C3%B5es%20de%20Agrega%C3%A7%C3%A3o)
+-  [04.JOIN-UNION](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/04.JOIN-UNION)
+-  [05.Subqueries](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/05.Subqueries)
+-  [06.Tratamento_de_dados](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/06.Tratamento_de_dados)
+-  [07.Manipulacao_de_tabelas](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/07.Manipulacao_de_tabelas)
+-  [Desafios]()
+
+---
