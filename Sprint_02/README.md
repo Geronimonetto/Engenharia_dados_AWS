@@ -38,25 +38,21 @@
 
 # Exercícios
 
--  [01.Exercícios Github ](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Exerc%C3%ADcios)
-    - [1.1.Resultado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_GIT.PNG)   
--  [02.Exercícios Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Exerc%C3%ADcios)
-    -   [2.1.Resultado Quiz 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_01_Linux.PNG)
-    -   [2.2.Resultado Quiz 02](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_02_Linux.PNG)
-    -   [2.3.Resultado Quiz 03](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_03_Linux.PNG)
-    -   [2.4.Resultado Quiz 04](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Exerc%C3%ADcios/Quiz_04_Linux.PNG)
+-  [01.Exercícios SQL ](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL)
+    - [Biblioteca](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL/Exerc%C3%ADcio_Compass.UOL/Biblioteca)
+    - [Loja](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL/Exerc%C3%ADcio_Compass.UOL/Loja)
+-  [02.Envio CSV](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL/Envio_CSV)
+    -  [10 Livros mais caros](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Exerc%C3%ADcios/SQL/Envio_CSV/10_livros_Mais_Caros.csv)
+    -  [5 Editoras com mais livros](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Exerc%C3%ADcios/SQL/Envio_CSV/05_Editoras_Quantidade_Livros.csv)    
+
 
 ## Evidências
 
-   -  [1.1 Adicionando Colaborador](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.1.Adicionando_Colaborador.PNG)
-   -  [1.2.Criando README.md](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.2.Criando_README.PNG)
-   -  [1.3.Criando Repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.3.Criando_Reposit%C3%B3rio.PNG)
-   -  [1.4.Início do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.4.Parte_Inicial.PNG)
-   -  [1.5 Final do Projeto](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.5.Parte_Final_Projeto.PNG)
-   -  [1.6.Vinculando ao Vscode](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Evid%C3%AAncias/1.6.Vinculando_Vscode.PNG)
-
+   -  [01.Evidência_Desafio Udemy](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Evid%C3%AAncias/01.Evid%C3%AAncia_Exerc%C3%ADcio_01.sql)
+   -  [02.Evidência Operadores Aritméticos](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Evid%C3%AAncias/02.Evid%C3%AAncia_aula_09_OPERADORES_ARITM%C3%89TICOS.sql)
+  
 # Certificados
 
--  [Certificado GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_GIT.jpg)
--  [Certificado Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Certificados/Certificado_Linux.jpg)
+-  [Certificado SQL]()
+-  [Certificado BIG DATA]()
 
