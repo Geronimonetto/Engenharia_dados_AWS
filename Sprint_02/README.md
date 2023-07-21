@@ -1,41 +1,38 @@
+---
 <div align="Center">
-  <img width = "100" Height= "50" src="https://i.imgur.com/mYjB0i4.png">
+  <img width = "80" Height= "100" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png">
+
+</div>
+
+---
+
+-  [01.Comandos_Básicos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/01.Comandos_B%C3%A1sicos)
+-  [02.Operadores](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/02.Operadores)    
+-  [03.Funções de Agregação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/03.Fun%C3%A7%C3%B5es%20de%20Agrega%C3%A7%C3%A3o)
+-  [04.JOIN-UNION](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/04.JOIN-UNION)
+-  [05.Subqueries](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/05.Subqueries)
+-  [06.Tratamento_de_dados](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/06.Tratamento_de_dados)
+-  [07.Manipulacao_de_tabelas](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/07.Manipulacao_de_tabelas)
+-  [Desafios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/Desafios_Udemy)
+
+---
+<div align="Center">
+  <img width = "100" Height= "130" src="https://codeit.us/storage/S9DtHZsnXGHpsyPrsFQyq3bvg90fAGlN15UUlxv6.png">
 
 </div>
 
 ---
 
 
--  [Introdução](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/01.Conte%C3%BAdo%20Fundamental%20Git)
--  [01.Conceitos e Comandos fundamentais GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/02.Branchs)    
--  [02.Branchs](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown)
--  [03.Compartilhamento e Atualização](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/03.Compartilhamento%20e%20Atualiza%C3%A7%C3%A3o)
--  [04.Análise e inspeção de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/04.An%C3%A1lise%20e%20inspe%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
--  [05.Administração de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/05.Administra%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
--  [06.Dicas de Commits](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/06.Dicas%20de%20Commits)
--  [07.Interface Github](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/07.Interface%20Github)
--  [08.Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/08.Markdown)
+-  [01.Big_Data_Conceitos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/01.Big_Data_Conceitos)
+-  [02.Fundamentos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/02.Fundamentos)    
+-  [03.Armazenamento_processamento_Paralelo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/03.Armazenamento_processamento_Paralelo)
+-  [04.Cloud_Computing](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/04.Cloud_Computing)
+-  [05.Machine_Learning](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/05.Machine_Learning)
+-  [06.Dados_serviços](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/06.Dados_servi%C3%A7os)
+-  [07.ETL](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/07.ETL)
+-  [08.Projeto_Big_Data](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/08.Projeto_Big_Data)
 
----
-<div align="Center">
-  <img width = "100" Height= "150" src="https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-logotipo-do-linux.png">
-
-</div>
-
----
-
-
--  [01.Instalação](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/01.Instala%C3%A7%C3%A3o)
--  [02.Teoria_sobre_Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/02.Teoria_sobre_Linux)    
--  [03.Comandos_Básicos_Linux](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/03.Comandos_B%C3%A1sicos_Linux)
--  [04.Gerenciamento_de_arquivo_e_diretorio](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/04.Gerenciamento_de_arquivo_e_diretorio)
--  [05.Gerenciamento_de_pacotes](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/05.Gerenciamento_de_pacotes)
--  [06.Filtros_busca_arquivos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/06.Filtros_busca_arquivos)
--  [07.Editores_textos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/07.Editores_textos)
--  [08.Gerenciamento_usuarios_Grupos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/08.Gerenciamento_usuarios_Grupos)
--  [09.Gerenciamento_de_permissões](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/09.Gerenciamento_de_Permiss%C3%B5es)
--  [10.Gerenciamento_básico_de_redes](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/10.Gerenciamento_b%C3%A1sico_de_redes)
--  [11.Compactação_e_descompactação_de_arquivos_e_diretórios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/11.Compacta%C3%A7%C3%A3o_e_Descompacta%C3%A7%C3%A3o)
 
 ---
 
