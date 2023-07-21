@@ -97,3 +97,20 @@
 -  [Desafios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/Desafios_Udemy)
 
 ---
+
+<div align="Center">
+  <img width = "100" Height= "130" src="https://codeit.us/storage/S9DtHZsnXGHpsyPrsFQyq3bvg90fAGlN15UUlxv6.png">
+
+</div>
+
+---
+
+
+-  [01.Big_Data_Conceitos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/01.Big_Data_Conceitos)
+-  [02.Fundamentos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/02.Fundamentos)    
+-  [03.Armazenamento_processamento_Paralelo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/03.Armazenamento_processamento_Paralelo)
+-  [04.Cloud_Computing](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/04.Cloud_Computing)
+-  [05.Machine_Learning](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/05.Machine_Learning)
+-  [06.Dados_serviços](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/06.Dados_servi%C3%A7os)
+-  [07.ETL](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/07.ETL)
+-  [08.Projeto_Big_Data](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/08.Projeto_Big_Data)
