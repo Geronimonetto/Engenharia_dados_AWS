@@ -94,6 +94,6 @@
 -  [05.Subqueries](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/05.Subqueries)
 -  [06.Tratamento_de_dados](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/06.Tratamento_de_dados)
 -  [07.Manipulacao_de_tabelas](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/07.Manipulacao_de_tabelas)
--  [Desafios]()
+-  [Desafios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/Desafios_Udemy)
 
 ---
