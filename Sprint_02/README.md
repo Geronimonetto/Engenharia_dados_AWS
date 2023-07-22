@@ -53,6 +53,6 @@
   
 # Certificados
 
--  [Certificado SQL]()
--  [Certificado BIG DATA]()
+-  [Certificado SQL](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Certificados/Certificado_SQL.PNG)
+-  [Certificado BIG DATA](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Certificados/Certificado_Big_Data.PNG)
 

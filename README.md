@@ -49,15 +49,15 @@
 ---
 
 
--  [Introdução](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/01.Conte%C3%BAdo%20Fundamental%20Git)
--  [01.Conceitos e Comandos fundamentais GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/02.Branchs)    
--  [02.Branchs](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown)
--  [03.Compartilhamento e Atualização](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/03.Compartilhamento%20e%20Atualiza%C3%A7%C3%A3o)
--  [04.Análise e inspeção de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/04.An%C3%A1lise%20e%20inspe%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
--  [05.Administração de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/05.Administra%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
--  [06.Dicas de Commits](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/06.Dicas%20de%20Commits)
--  [07.Interface Github](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/07.Interface%20Github)
--  [08.Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git_Github_Markdown/08.Markdown)
+-  [Introdução](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Git/01.Conte%C3%BAdo%20Fundamental%20Git/1.0%20Introdu%C3%A7%C3%A3o.pdf)
+-  [01.Conceitos e Comandos fundamentais GIT](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/01.Conte%C3%BAdo%20Fundamental%20Git)    
+-  [02.Branchs](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/02.Branchs)
+-  [03.Compartilhamento e Atualização](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/03.Compartilhamento%20e%20Atualiza%C3%A7%C3%A3o)
+-  [04.Análise e inspeção de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/04.An%C3%A1lise%20e%20inspe%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
+-  [05.Administração de repositório](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/05.Administra%C3%A7%C3%A3o%20de%20reposit%C3%B3rio)
+-  [06.Dicas de Commits](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/06.Dicas%20de%20Commits)
+-  [07.Interface Github](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/07.Interface%20Github)
+-  [08.Markdown](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/08.Markdown)
 
 ---
 <div align="Center">
@@ -97,3 +97,20 @@
 -  [Desafios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/Desafios_Udemy)
 
 ---
+
+<div align="Center">
+  <img width = "100" Height= "130" src="https://codeit.us/storage/S9DtHZsnXGHpsyPrsFQyq3bvg90fAGlN15UUlxv6.png">
+
+</div>
+
+---
+
+
+-  [01.Big_Data_Conceitos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/01.Big_Data_Conceitos)
+-  [02.Fundamentos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/02.Fundamentos)    
+-  [03.Armazenamento_processamento_Paralelo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/03.Armazenamento_processamento_Paralelo)
+-  [04.Cloud_Computing](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/04.Cloud_Computing)
+-  [05.Machine_Learning](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/05.Machine_Learning)
+-  [06.Dados_serviços](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/06.Dados_servi%C3%A7os)
+-  [07.ETL](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/07.ETL)
+-  [08.Projeto_Big_Data](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/08.Projeto_Big_Data)
