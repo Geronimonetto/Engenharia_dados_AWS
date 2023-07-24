@@ -10,6 +10,7 @@
   <h5>EXPERIÊNCIA: Primeira oportunidade na área de tecnologia com a Compass.UOL</h5>
   <h5>HOBBIES: Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</h5>
   <h5>SKILLS: Proatividade, Comunicação, Empatia, Determinação </h5>
+  <h5>LEARNING: Python</h5>
   </i>
 </div>
 <div align="Center">
