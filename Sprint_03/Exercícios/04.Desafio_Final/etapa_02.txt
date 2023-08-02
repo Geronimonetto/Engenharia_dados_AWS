@@ -1,0 +1,50 @@
+Ator: Harrison Ford             -  Média de faturamento: $ 118.80              
+Ator: Samuel L. Jackson         -  Média de faturamento: $ 69.20               
+Ator: Morgan Freeman            -  Média de faturamento: $ 73.30               
+Ator: Tom Hanks                 -  Média de faturamento: $ 98.70               
+Ator: Robert Downey Jr.         -  Média de faturamento: $ 74.50               
+Ator: Eddie Murphy              -  Média de faturamento: $ 100.30              
+Ator: Tom Cruise                -  Média de faturamento: $ 99.60               
+Ator: Johnny Depp               -  Média de faturamento: $ 74.90               
+Ator: Michael Caine             -  Média de faturamento: $ 57.80               
+Ator: Scarlett Johansson        -  Média de faturamento: $ 90.30               
+Ator: Gary Oldman               -  Média de faturamento: $ 86.70               
+Ator: Robin Williams            -  Média de faturamento: $ 66.90               
+Ator: Bruce Willis              -  Média de faturamento: $ 53.20               
+Ator: Stellan Skarsgard         -  Média de faturamento: $ 73.80               
+Ator: Anthony Daniels           -  Média de faturamento: $ 451.80              
+Ator: Ian McKellen              -  Média de faturamento: $ 101.60              
+Ator: Will Smith                -  Média de faturamento: $ 131.20              
+Ator: Stanley Tucci             -  Média de faturamento: $ 62.50               
+Ator: Matt Damon                -  Média de faturamento: $ 79.70               
+Ator: Robert DeNiro             -  Média de faturamento: $ 39.00               
+Ator: Cameron Diaz              -  Média de faturamento: $ 89.20               
+Ator: Liam Neeson               -  Média de faturamento: $ 46.70               
+Ator: Andy Serkis               -  Média de faturamento: $ 125.70              
+Ator: Don Cheadle               -  Média de faturamento: $ 84.90               
+Ator: Ben Stiller               -  Média de faturamento: $ 76.40               
+Ator: Helena Bonham Carter      -  Média de faturamento: $ 78.40               
+Ator: Orlando Bloom             -  Média de faturamento: $ 165.60              
+Ator: Woody Harrelson           -  Média de faturamento: $ 56.30               
+Ator: Cate Blanchett            -  Média de faturamento: $ 71.90               
+Ator: Julia Roberts             -  Média de faturamento: $ 65.10               
+Ator: Elizabeth Banks           -  Média de faturamento: $ 77.90               
+Ator: Ralph Fiennes             -  Média de faturamento: $ 75.40               
+Ator: Emma Watson               -  Média de faturamento: $ 157.80              
+Ator: Tommy Lee Jones           -  Média de faturamento: $ 58.30               
+Ator: Brad Pitt                 -  Média de faturamento: $ 67.00               
+Ator: Adam Sandler              -  Média de faturamento: $ 83.20               
+Ator: Daniel Radcliffe          -  Média de faturamento: $ 155.00              
+Ator: Jonah Hill                -  Média de faturamento: $ 89.80               
+Ator: Owen Wilson               -  Média de faturamento: $ 66.70               
+Ator: Idris Elba                -  Média de faturamento: $ 99.30               
+Ator: Bradley Cooper            -  Média de faturamento: $ 102.30              
+Ator: Mark Wahlberg             -  Média de faturamento: $ 70.80               
+Ator: Jim Carrey                -  Média de faturamento: $ 94.30               
+Ator: Dustin Hoffman            -  Média de faturamento: $ 58.70               
+Ator: Leonardo DiCaprio         -  Média de faturamento: $ 100.70              
+Ator: Jeremy Renner             -  Média de faturamento: $ 119.10              
+Ator: Philip Seymour Hoffman    -  Média de faturamento: $ 61.60               
+Ator: Sandra Bullock            -  Média de faturamento: $ 70.40               
+Ator: Chris Evans               -  Média de faturamento: $ 106.90              
+Ator: Anne Hathaway             -  Média de faturamento: $ 96.70 

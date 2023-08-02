@@ -1,0 +1,50 @@
+Ator: Harrison Ford             -  Faturamento total bruto: $ 4871.70             
+Ator: Samuel L. Jackson         -  Faturamento total bruto: $ 4772.80             
+Ator: Morgan Freeman            -  Faturamento total bruto: $ 4468.30             
+Ator: Tom Hanks                 -  Faturamento total bruto: $ 4340.80             
+Ator: Robert Downey Jr.         -  Faturamento total bruto: $ 3947.30             
+Ator: Eddie Murphy              -  Faturamento total bruto: $ 3810.40             
+Ator: Tom Cruise                -  Faturamento total bruto: $ 3587.20             
+Ator: Johnny Depp               -  Faturamento total bruto: $ 3368.60             
+Ator: Michael Caine             -  Faturamento total bruto: $ 3351.50             
+Ator: Scarlett Johansson        -  Faturamento total bruto: $ 3341.20             
+Ator: Gary Oldman               -  Faturamento total bruto: $ 3294.00             
+Ator: Robin Williams            -  Faturamento total bruto: $ 3279.30             
+Ator: Bruce Willis              -  Faturamento total bruto: $ 3189.40             
+Ator: Stellan Skarsgard         -  Faturamento total bruto: $ 3175.00             
+Ator: Anthony Daniels           -  Faturamento total bruto: $ 3162.90             
+Ator: Ian McKellen              -  Faturamento total bruto: $ 3150.40             
+Ator: Will Smith                -  Faturamento total bruto: $ 3149.10             
+Ator: Stanley Tucci             -  Faturamento total bruto: $ 3123.90             
+Ator: Matt Damon                -  Faturamento total bruto: $ 3107.30             
+Ator: Robert DeNiro             -  Faturamento total bruto: $ 3081.30             
+Ator: Cameron Diaz              -  Faturamento total bruto: $ 3031.70             
+Ator: Liam Neeson               -  Faturamento total bruto: $ 2942.70             
+Ator: Andy Serkis               -  Faturamento total bruto: $ 2890.60             
+Ator: Don Cheadle               -  Faturamento total bruto: $ 2885.40             
+Ator: Ben Stiller               -  Faturamento total bruto: $ 2827.00             
+Ator: Helena Bonham Carter      -  Faturamento total bruto: $ 2822.00             
+Ator: Orlando Bloom             -  Faturamento total bruto: $ 2815.80             
+Ator: Woody Harrelson           -  Faturamento total bruto: $ 2815.80             
+Ator: Cate Blanchett            -  Faturamento total bruto: $ 2802.60             
+Ator: Julia Roberts             -  Faturamento total bruto: $ 2735.30             
+Ator: Elizabeth Banks           -  Faturamento total bruto: $ 2726.30             
+Ator: Ralph Fiennes             -  Faturamento total bruto: $ 2715.30             
+Ator: Emma Watson               -  Faturamento total bruto: $ 2681.90             
+Ator: Tommy Lee Jones           -  Faturamento total bruto: $ 2681.30             
+Ator: Brad Pitt                 -  Faturamento total bruto: $ 2680.90             
+Ator: Adam Sandler              -  Faturamento total bruto: $ 2661.00             
+Ator: Daniel Radcliffe          -  Faturamento total bruto: $ 2634.40             
+Ator: Jonah Hill                -  Faturamento total bruto: $ 2605.10             
+Ator: Owen Wilson               -  Faturamento total bruto: $ 2602.30             
+Ator: Idris Elba                -  Faturamento total bruto: $ 2580.60             
+Ator: Bradley Cooper            -  Faturamento total bruto: $ 2557.70             
+Ator: Mark Wahlberg             -  Faturamento total bruto: $ 2549.80             
+Ator: Jim Carrey                -  Faturamento total bruto: $ 2545.20             
+Ator: Dustin Hoffman            -  Faturamento total bruto: $ 2522.10             
+Ator: Leonardo DiCaprio         -  Faturamento total bruto: $ 2518.30             
+Ator: Jeremy Renner             -  Faturamento total bruto: $ 2500.30             
+Ator: Philip Seymour Hoffman    -  Faturamento total bruto: $ 2463.70             
+Ator: Sandra Bullock            -  Faturamento total bruto: $ 2462.60             
+Ator: Chris Evans               -  Faturamento total bruto: $ 2457.80             
+Ator: Anne Hathaway             -  Faturamento total bruto: $ 2416.50 
