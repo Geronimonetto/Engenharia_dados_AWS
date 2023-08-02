@@ -1,17 +1,17 @@
 <div align="Center">
 <h1>Apresentando-me</h1>
 </div>
-<div align="right">
-  <h4><i>NOME: Geronimo Morais</i></h3> 
-  <h5><i>IDADE: 28 anos</h5>
-  <h5>CIDADE: Recife-PE</h5>
-  <h5>INSTITUIÇÃO: UNINABUCO</h5>
-  <h5>SEMESTRE ATUAL:  4° Semestre</h5>
-  <h5>EXPERIÊNCIA: Primeira oportunidade na área de tecnologia com a Compass.UOL</h5>
-  <h5>HOBBIES: Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</h5>
-  <h5>SKILLS: Proatividade, Comunicação, Empatia, Determinação </h5>
-  <h5>LEARNING: Python</h5>
-  </i>
+<div align="left">
+  <h3>NOME </h3> <i>Geronimo Morais</i>
+  <h3>IDADE</h3><i> 28 anos</i>
+  <h3>CIDADE</h3> <i>Recife-PE</i>
+  <h3>INSTITUIÇÃO</h3><i> UNINABUCO</i>
+  <h3>SEMESTRE ATUAL</h3><i> 4° Semestre</i>
+  <h3>EXPERIÊNCIA </h3><i>Primeira oportunidade na área de tecnologia com a Compass.UOL</i>
+  <h3>HOBBIES</h3> <i>Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</i>
+  <h3>SKILLS</h3><i>Proatividade, Comunicação, Empatia, Determinação</i>
+  <h3>LEARNING</h3><i> Python</i>
+  
 </div>
 <div align="Center">
 
@@ -115,3 +115,18 @@
 -  [06.Dados_serviços](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/06.Dados_servi%C3%A7os)
 -  [07.ETL](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/07.ETL)
 -  [08.Projeto_Big_Data](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/08.Projeto_Big_Data)
+
+---
+
+<div align="Center">
+  <img width = "100" Height= "100" src="https://www.pngmart.com/files/7/Python-PNG-Image.png">
+
+</div>
+
+---
+
+
+-  [01.Fundamentos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/01.Big_Data_Conceitos)
+-  [02.POO](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/02.Fundamentos)    
+-  [03.Exercícios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/03.Armazenamento_processamento_Paralelo)
+
