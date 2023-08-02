@@ -14,14 +14,10 @@
 
 # Exercícios
 
--  [01.Exercícios SQL ](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL)
-    - [Biblioteca](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL/Exerc%C3%ADcio_Compass.UOL/Biblioteca)
-    - [Loja](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL/Exerc%C3%ADcio_Compass.UOL/Loja)
--  [02.Envio CSV](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/Exerc%C3%ADcios/SQL/Envio_CSV)
-    -  [10 Livros mais caros](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Exerc%C3%ADcios/SQL/Envio_CSV/10_livros_Mais_Caros.csv)
-    -  [5 Editoras com mais livros](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Exerc%C3%ADcios/SQL/Envio_CSV/05_Editoras_Quantidade_Livros.csv)    
-
-
+-  [01.Exercício Seção 03](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_03/Exerc%C3%ADcios/01.Exerc%C3%ADcio_Se%C3%A7%C3%A3o_03)
+-  [02.Exercício Seção 04](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_03/Exerc%C3%ADcios/02.Exerc%C3%ADcio_Se%C3%A7%C3%A3o_04)
+-  [03.Exercício Seção 06](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_03/Exerc%C3%ADcios/03.Exerc%C3%ADcio_Se%C3%A7%C3%A3o_06)
+-  [04.Desafio Final](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_03/Exerc%C3%ADcios/04.Desafio_Final)
 ## Evidências
 
    -  [01.Evidência_Desafio Udemy](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Evid%C3%AAncias/01.Evid%C3%AAncia_Exerc%C3%ADcio_01.sql)
@@ -29,6 +25,6 @@
   
 # Certificados
 
--  [Certificado SQL](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Certificados/Certificado_SQL.PNG)
--  [Certificado BIG DATA](https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_02/Certificados/Certificado_Big_Data.PNG)
+-  [Certificado Python]()
+
 
