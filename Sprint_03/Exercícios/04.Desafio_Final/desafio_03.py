@@ -37,8 +37,6 @@ def data_organized(data_clear):
     return organized_list
 
 
-
-
 def data_verify(organized_list):
     """
     func: Buscando nome e faturamento médio para verificar qual o ator/atriz com maior faturamento
@@ -65,7 +63,6 @@ def data_verify(organized_list):
             data_actor.append(data_types)
         accumulator += 1
     print(f"O Ator/Atriz com a maior média de faturamento por filme foi {nome} com $ {max_gross}")
-
 
 
 if __name__ == "__main__":
