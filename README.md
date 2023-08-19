@@ -138,13 +138,14 @@
 
 ---
 
-- [01.Docker]()
-- [02.Container]()
-- [03.Container x Imagem]()
-- [04.Volumes]()
-- [05.Container com redes]()
-- [06.Docker Compose]()
-- [07.Docker Swarm]()
+- [01.Docker](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/01.Docker)
+- [02.Container](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/02.Container)
+- [03.Container x Imagem](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/03.Container%20x%20imagem)
+- [04.Volumes](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/04.Volumes)
+- [05.Container com redes](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/05.Container%20com%20redes)
+- [06.Docker Compose](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/06.Docker%20compose)
+- [07.Docker Swarm](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/07.Docker%20Swarm)
+- [08.Exercícios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Exerc%C3%ADcios)
 
 ---
 
@@ -155,12 +156,12 @@
 
 ---
 
-- [01.Conhecimentos básicos Estatísticos]()
-- [02.Fundamentos]()
-- [03.Representação Gráfica]()
-- [04.Medidas de Tendencia Central]()
-- [05.Medidas de Dispersão]()
-- [06.Medidas de Assimetria]()
+- [01.Conhecimentos básicos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/01.Conhecimentos%20B%C3%A1sicos)
+- [02.Fundamentos](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/02.Fundamentos)
+- [03.Representação Gráfica](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/03.Representa%C3%A7%C3%A3o%20Gr%C3%A1fica)
+- [04.Medidas de Tendencia Central](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/04.Medidas%20de%20Tend%C3%AAncia%20Central)
+- [05.Medidas de Dispersão](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/05.Medidas%20de%20Dispers%C3%A3o)
+- [06.Medidas de Assimetria](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/06.Medidas%20de%20Assimetria)
 
 ---
 
@@ -172,7 +173,6 @@
 ---
 
 
--  [01.Programação Funcional]()
--  [03.Exercícios]()
-
+-  [01.Programação Funcional](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Python%20Funcional/Conte%C3%BAdo)
+-  [02.Exercícios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Python%20Funcional/Exerc%C3%ADcios)
 
