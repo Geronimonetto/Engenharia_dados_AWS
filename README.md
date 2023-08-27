@@ -10,7 +10,7 @@
   <h3>EXPERIÊNCIA </h3><i>Primeira oportunidade na área de tecnologia com a Compass.UOL</i>
   <h3>HOBBIES</h3> <i>Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</i>
   <h3>SKILLS</h3><i>Proatividade, Comunicação, Empatia, Determinação</i>
-  <h3>LEARNING</h3><i> Python - Estatísticas - Docker </i>
+  <h3>LEARNING</h3><i> AWS Skill Builder </i>
   
 </div>
 <div align="Center">
