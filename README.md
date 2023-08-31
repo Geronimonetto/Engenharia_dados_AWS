@@ -150,7 +150,7 @@
 ---
 
 <div align="Center">
-  <img width = "100" Height= "130" src="https://qph.cf2.quoracdn.net/main-qimg-3c34cdf16ec036656203b0b961cb1683">
+  <img width = "100" Height= "100" src="https://qph.cf2.quoracdn.net/main-qimg-3c34cdf16ec036656203b0b961cb1683">
 
 </div>
 
