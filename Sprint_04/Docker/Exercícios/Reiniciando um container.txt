@@ -1,0 +1,5 @@
+A partir do momento que utilizamos o comando 
+docker stop "nome do container"
+
+ele é pausado e podemos reinicia-lo apenas usando o comando 
+docker start "nome do container"
