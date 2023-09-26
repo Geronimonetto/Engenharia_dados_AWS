@@ -1,136 +1,296 @@
-Apresentando-me: 1
-NOME: 1
-: 18
-Geronimo: 1
-Morais: 1
-IDADE: 1
-28: 1
-anos: 1
-CIDADE: 1
-Recife-PE: 1
-INSTITUIÇÃO: 1
-UNINABUCO: 1
-SEMESTRE: 1
-ATUAL: 1
-4°: 1
-Semestre: 1
-EXPERIÊNCIA: 1
-Primeira: 1
-oportunidade: 1
-na: 1
-área: 1
-de: 10
-tecnologia: 1
-com: 2
-a: 1
-Compass.UOL: 1
-HOBBIES: 1
-Amo: 1
-ler: 1
-livros,: 1
-academia: 1
-e: 5
-corrida: 1
-sempre: 1
-que: 1
-dá: 1
-gosto: 1
-jogar: 1
-jogos: 1
-como: 1
-FIFA/NBA: 1
-SKILLS: 1
-Proatividade,: 1
-Comunicação,: 1
-Empatia,: 1
-Determinação: 1
-LEARNING: 1
-AWS: 2
-Skill: 1
-Builder: 1
-Roadmap: 1
-Engenharia: 1
-dados: 1
-Introdução: 1
-01.Conceitos: 1
-Comandos: 1
-fundamentais: 1
-GIT: 1
-02.Branchs: 1
-03.Compartilhamento: 1
-Atualização: 1
-04.Análise: 1
-inspeção: 1
-repositório: 2
-05.Administração: 1
-06.Dicas: 1
-Commits: 1
-07.Interface: 1
-Github: 1
-08.Markdown: 1
-01.Instalação: 1
-02.Teoria_sobre_Linux: 1
-03.Comandos_Básicos_Linux: 1
-04.Gerenciamento_de_arquivo_e_diretorio: 1
-05.Gerenciamento_de_pacotes: 1
-06.Filtros_busca_arquivos: 1
-07.Editores_textos: 1
-08.Gerenciamento_usuarios_Grupos: 1
-09.Gerenciamento_de_permissões: 1
-10.Gerenciamento_básico_de_redes: 1
-11.Compactação_e_descompactação_de_arquivos_e_diretórios: 1
-01.Comandos_Básicos: 1
-02.Operadores: 1
-03.Funções: 1
-Agregação: 1
-04.JOIN-UNION: 1
-05.Subqueries: 1
-06.Tratamento_de_dados: 1
-07.Manipulacao_de_tabelas: 1
-Desafios: 1
-01.Big_Data_Conceitos: 1
-02.Fundamentos: 2
-03.Armazenamento_processamento_Paralelo: 1
-04.Cloud_Computing: 1
-05.Machine_Learning: 1
-06.Dados_serviços: 1
-07.ETL: 1
-08.Projeto_Big_Data: 1
-01.Fundamentos: 1
-02.POO: 1
-03.Exercícios: 2
-01.Docker: 1
-02.Container: 1
-03.Container: 1
-x: 1
-Imagem: 1
-04.Volumes: 1
-05.Container: 1
-redes: 1
-06.Docker: 1
-Compose: 1
-07.Docker: 1
-Swarm: 1
-08.Exercícios: 1
-01.Conhecimentos: 1
-básicos: 1
-03.Representação: 1
-Gráfica: 1
-04.Medidas: 1
-Tendencia: 1
-Central: 1
-05.Medidas: 1
-Dispersão: 1
-06.Medidas: 1
-Assimetria: 1
-01.Programação: 1
-Funcional: 1
-02.Exercícios: 1
-01.Conteúdo: 2
-02.Certificados: 2
-03.Perfil: 1
-Credly: 1
-04.Video: 1
-Resumo: 1
-da: 1
-Sprint: 1
+{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"Sprint_01","path":"Sprint_01","contentType":"directory"},{"name":"Sprint_02","path":"Sprint_02","contentType":"directory"},{"name":"Sprint_03","path":"Sprint_03","contentType":"directory"},{"name":"Sprint_04","path":"Sprint_04","contentType":"directory"},{"name":"Sprint_05","path":"Sprint_05","contentType":"directory"},{"name":"Sprint_06","path":"Sprint_06","contentType":"directory"},{"name":"Sprint_07","path":"Sprint_07","contentType":"directory"},{"name":"Sprint_Extra","path":"Sprint_Extra","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":9}},"fileTreeProcessingTime":1.920876,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":659341470,"defaultBranch":"main","name":"Engenharia_dados_AWS","ownerLogin":"Geronimonetto","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-06-27T16:11:45.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/108224476?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1687882306.235214","canEdit":false,"refType":"branch","currentOid":"006aab75b5742d4971557ad9466af4473ab7efd3"},"path":"README.md","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/Geronimonetto/Engenharia_dados_AWS/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/Geronimonetto/Engenharia_dados_AWS/security/dependabot","repoSecurityAndAnalysisPath":"/Geronimonetto/Engenharia_dados_AWS/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"README.md","displayUrl":"https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/README.md?raw=true","headerInfo":{"blobSize":"11:1
+KB","deleteInfo":{"deleteTooltip":"You:1
+must:2
+be:2
+signed:2
+in:2
+to:2
+make:2
+or:2
+propose:2
+changes"},"editInfo":{"editTooltip":"You:1
+changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"8187856","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FGeronimonetto%2FEngenharia_dados_AWS%2Fblob%2Fmain%2FREADME.md","isCSV":false,"isRichtext":true,"toc":[{"level":1,"text":"Apresentando-me","anchor":"apresentando-me","htmlText":"Apresentando-me"},{"level":3,"text":"NOME:1
+","anchor":"nome-","htmlText":"NOME:1
+"},{"level":3,"text":"IDADE","anchor":"idade","htmlText":"IDADE"},{"level":3,"text":"CIDADE","anchor":"cidade","htmlText":"CIDADE"},{"level":3,"text":"INSTITUIÇÃO","anchor":"instituição","htmlText":"INSTITUIÇÃO"},{"level":3,"text":"SEMESTRE:1
+ATUAL","anchor":"semestre-atual","htmlText":"SEMESTRE:1
+ATUAL"},{"level":3,"text":"EXPERIÊNCIA:1
+","anchor":"experiência-","htmlText":"EXPERIÊNCIA:1
+"},{"level":3,"text":"HOBBIES","anchor":"hobbies","htmlText":"HOBBIES"},{"level":3,"text":"SKILLS","anchor":"skills","htmlText":"SKILLS"},{"level":3,"text":"LEARNING","anchor":"learning","htmlText":"LEARNING"},{"level":1,"text":"\n:1
+:113
+Roadmap:3
+Engenharia:3
+de:12
+dados:3
+AWS\n","anchor":"--roadmap-engenharia-de-dados-aws","htmlText":"\n:1
+AWS\n"}],"lineInfo":{"truncatedLoc":"205","truncatedSloc":"148"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Markdown","languageID":222,"large":false,"loggedIn":false,"newDiscussionPath":"/Geronimonetto/Engenharia_dados_AWS/discussions/new","newIssuePath":"/Geronimonetto/Engenharia_dados_AWS/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Geronimonetto/Engenharia_dados_AWS/blob/main/README.md","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/Geronimonetto/Engenharia_dados_AWS/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":"<article:1
+class=\"markdown-body:1
+entry-content:1
+container-lg\":1
+itemprop=\"text\"><div:1
+align=\"Center\":14
+dir=\"auto\">\n<h1:2
+tabindex=\"-1\":11
+id=\"user-content-apresentando-me\":1
+dir=\"auto\"><a:11
+class=\"heading-link\":11
+href=\"#apresentando-me\">Apresentando-me<svg:1
+class=\"octicon:11
+octicon-link\":11
+viewBox=\"0:11
+0:429
+16:11
+16\":11
+version=\"1.1\":11
+width=\"16\":11
+height=\"16\":11
+aria-hidden=\"true\"><path:11
+d=\"m7.775:11
+3.275:11
+1.25-1.25a3.5:11
+3.5:44
+1:88
+4.95:22
+4.95l-2.5:11
+2.5a3.5:11
+1-4.95:11
+.751.751:22
+.018-1.042.751.751:11
+1.042-.018:11
+1.998:66
+2.83:22
+0l2.5-2.5a2.002:11
+2.002:11
+0-2.83-2.83l-1.25:11
+1.25a.751.751:11
+1-1.042-.018.751.751:11
+1-.018-1.042Zm-4.69:11
+9.64a1.998:11
+0l1.25-1.25a.751.751:11
+1.042.018.751.751:11
+.018:11
+1.042l-1.25:11
+1.25a3.5:11
+1-4.95-4.95l2.5-2.5a3.5:11
+1-.018:11
+1.042.751.751:11
+1-1.042.018:11
+0-2.83:11
+0l-2.5:11
+2.5a1.998:11
+2.83Z\"></path></svg></a></h1>\n</div>\n<div:1
+align=\"left\":1
+dir=\"auto\">\n:13
+<h3:9
+id=\"user-content-nome-\":1
+href=\"#nome-\">NOME:1
+<svg:2
+2.83Z\"></path></svg></a></h3>:3
+<i>Geronimo:1
+Morais</i>\n:1
+id=\"user-content-idade\":1
+href=\"#idade\">IDADE<svg:1
+2.83Z\"></path></svg></a></h3><i>:4
+28:1
+anos</i>\n:1
+id=\"user-content-cidade\":1
+href=\"#cidade\">CIDADE<svg:1
+<i>Recife-PE</i>\n:1
+id=\"user-content-instituição\":1
+href=\"#instituição\">INSTITUIÇÃO<svg:1
+UNINABUCO</i>\n:1
+id=\"user-content-semestre-atual\":1
+href=\"#semestre-atual\">SEMESTRE:1
+ATUAL<svg:1
+4°:1
+Semestre</i>\n:1
+id=\"user-content-experiência-\":1
+href=\"#experiência-\">EXPERIÊNCIA:1
+2.83Z\"></path></svg></a></h3><i>Primeira:1
+oportunidade:1
+na:1
+área:1
+tecnologia:1
+com:2
+a:1
+Compass.UOL</i>\n:1
+id=\"user-content-hobbies\":1
+href=\"#hobbies\">HOBBIES<svg:1
+<i>Amo:1
+ler:1
+livros,:1
+academia:1
+e:5
+corrida:1
+sempre:1
+que:1
+dá:1
+gosto:1
+jogar:1
+jogos:1
+como:1
+FIFA/NBA</i>\n:1
+id=\"user-content-skills\":1
+href=\"#skills\">SKILLS<svg:1
+2.83Z\"></path></svg></a></h3><i>Proatividade,:1
+Comunicação,:1
+Empatia,:1
+Determinação</i>\n:1
+id=\"user-content-learning\":1
+href=\"#learning\">LEARNING<svg:1
+AWS:1
+Skill:1
+Builder:1
+</i>\n</div>\n<div:1
+id=\"user-content---roadmap-engenharia-de-dados-aws\":1
+href=\"#--roadmap-engenharia-de-dados-aws\">\n:1
+AWS\n<svg:1
+2.83Z\"></path></svg></a></h1>\n</div>\n<section>\n:1
+\n:1
+<div:2
+<a:12
+target=\"_blank\":12
+rel=\"noopener:12
+noreferrer:12
+nofollow\":12
+href=\"https://camo.githubusercontent.com/e5709d53535221779d96aeb4e58b7179684aa683e46734f42e177694c1c4b3cb/68747470733a2f2f692e696d6775722e636f6d2f544441354c76422e6a7067\"><img:1
+width=\"1300\":1
+height=\"500\":1
+src=\"https://camo.githubusercontent.com/e5709d53535221779d96aeb4e58b7179684aa683e46734f42e177694c1c4b3cb/68747470733a2f2f692e696d6775722e636f6d2f544441354c76422e6a7067\":1
+data-canonical-src=\"https://i.imgur.com/TDA5LvB.jpg\":1
+style=\"max-width::12
+100%;\"></a>\n:2
+align=\"right\":2
+href=\"https://camo.githubusercontent.com/a3add8346ebc219e1057c186564a260f22387f74d16cb05e6574253a07e3a8a8/68747470733a2f2f692e696d6775722e636f6d2f69624b623335482e706e67\"><img:1
+width=\"120\":1
+height=\"50\":2
+src=\"https://camo.githubusercontent.com/a3add8346ebc219e1057c186564a260f22387f74d16cb05e6574253a07e3a8a8/68747470733a2f2f692e696d6775722e636f6d2f69624b623335482e706e67\":1
+data-canonical-src=\"https://i.imgur.com/ibKb35H.png\":1
+</div>\n:2
+\n</section>\n<div:1
+dir=\"auto\">\n</div>\n<br>\n<br>\n<br>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/dc2338f716ced3b6a6773df51753d8d5fbd2764e71132b9781a2b11ad280f6f5/68747470733a2f2f692e696d6775722e636f6d2f6d596a423069342e706e67\"><img:1
+width=\"100\":6
+src=\"https://camo.githubusercontent.com/dc2338f716ced3b6a6773df51753d8d5fbd2764e71132b9781a2b11ad280f6f5/68747470733a2f2f692e696d6775722e636f6d2f6d596a423069342e706e67\":1
+data-canonical-src=\"https://i.imgur.com/mYjB0i4.png\":1
+100%;\"></a>\n</div>\n<hr>\n<ul:10
+dir=\"auto\">\n<li><a:10
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/blob/main/Sprint_01/Git/01.Conte%C3%BAdo%20Fundamental%20Git/1.0%20Introdu%C3%A7%C3%A3o.pdf\">Introdução</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/01.Conte%C3%BAdo%20Fundamental%20Git\">01.Conceitos:1
+Comandos:1
+fundamentais:1
+GIT</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/02.Branchs\">02.Branchs</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/03.Compartilhamento%20e%20Atualiza%C3%A7%C3%A3o\">03.Compartilhamento:1
+Atualização</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/04.An%C3%A1lise%20e%20inspe%C3%A7%C3%A3o%20de%20reposit%C3%B3rio\">04.Análise:1
+inspeção:1
+repositório</a></li>\n<li><a:2
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/05.Administra%C3%A7%C3%A3o%20de%20reposit%C3%B3rio\">05.Administração:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/06.Dicas%20de%20Commits\">06.Dicas:1
+Commits</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/07.Interface%20Github\">07.Interface:1
+Github</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Git/08.Markdown\">08.Markdown</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/44afd7c2f35adcacabfc8ca0fd919283c1339b913a21d541743bf9dd3c4d3321/68747470733a2f2f696d616765732e766578656c732e636f6d2f6d656469612f75736572732f332f3134303639322f69736f6c617465642f707265766965772f37326431663132656466373538643234663562366462373362616334663239372d6c6f676f7469706f2d646f2d6c696e75782e706e67\"><img:1
+height=\"150\":1
+src=\"https://camo.githubusercontent.com/44afd7c2f35adcacabfc8ca0fd919283c1339b913a21d541743bf9dd3c4d3321/68747470733a2f2f696d616765732e766578656c732e636f6d2f6d656469612f75736572732f332f3134303639322f69736f6c617465642f707265766965772f37326431663132656466373538643234663562366462373362616334663239372d6c6f676f7469706f2d646f2d6c696e75782e706e67\":1
+data-canonical-src=\"https://images.vexels.com/media/users/3/140692/isolated/preview/72d1f12edf758d24f5b6db73bac4f297-logotipo-do-linux.png\":1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/01.Instala%C3%A7%C3%A3o\">01.Instalação</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/02.Teoria_sobre_Linux\">02.Teoria_sobre_Linux</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/03.Comandos_B%C3%A1sicos_Linux\">03.Comandos_Básicos_Linux</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/04.Gerenciamento_de_arquivo_e_diretorio\">04.Gerenciamento_de_arquivo_e_diretorio</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/05.Gerenciamento_de_pacotes\">05.Gerenciamento_de_pacotes</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/06.Filtros_busca_arquivos\">06.Filtros_busca_arquivos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/07.Editores_textos\">07.Editores_textos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/08.Gerenciamento_usuarios_Grupos\">08.Gerenciamento_usuarios_Grupos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/09.Gerenciamento_de_Permiss%C3%B5es\">09.Gerenciamento_de_permissões</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/10.Gerenciamento_b%C3%A1sico_de_redes\">10.Gerenciamento_básico_de_redes</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_01/Linux/11.Compacta%C3%A7%C3%A3o_e_Descompacta%C3%A7%C3%A3o\">11.Compactação_e_descompactação_de_arquivos_e_diretórios</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/4eefca339c27e63a4515215f514eef5443a7d024eebc9465eedb04edf2b29f8a/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f73716c2d64617461626173652d67656e657269632d69636f6e2d3135323178323034382d64307664707870672e706e67\"><img:1
+width=\"80\":3
+height=\"100\":4
+src=\"https://camo.githubusercontent.com/4eefca339c27e63a4515215f514eef5443a7d024eebc9465eedb04edf2b29f8a/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f73716c2d64617461626173652d67656e657269632d69636f6e2d3135323178323034382d64307664707870672e706e67\":1
+data-canonical-src=\"https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png\":1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/01.Comandos_B%C3%A1sicos\">01.Comandos_Básicos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/02.Operadores\">02.Operadores</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/03.Fun%C3%A7%C3%B5es%20de%20Agrega%C3%A7%C3%A3o\">03.Funções:1
+Agregação</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/04.JOIN-UNION\">04.JOIN-UNION</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/05.Subqueries\">05.Subqueries</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/06.Tratamento_de_dados\">06.Tratamento_de_dados</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/07.Manipulacao_de_tabelas\">07.Manipulacao_de_tabelas</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/SQL/Conte%C3%BAdo/Desafios_Udemy\">Desafios</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/a2f593b1d144e5756f576544c72ad0d5ad41bf0c2b5a171217fcb429d7763140/68747470733a2f2f636f646569742e75732f73746f726167652f53394474485a736e584748707379507273465179713362766739306641476c4e313555556c7876362e706e67\"><img:1
+height=\"130\":1
+src=\"https://camo.githubusercontent.com/a2f593b1d144e5756f576544c72ad0d5ad41bf0c2b5a171217fcb429d7763140/68747470733a2f2f636f646569742e75732f73746f726167652f53394474485a736e584748707379507273465179713362766739306641476c4e313555556c7876362e706e67\":1
+data-canonical-src=\"https://codeit.us/storage/S9DtHZsnXGHpsyPrsFQyq3bvg90fAGlN15UUlxv6.png\":1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/01.Big_Data_Conceitos\">01.Big_Data_Conceitos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/02.Fundamentos\">02.Fundamentos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/03.Armazenamento_processamento_Paralelo\">03.Armazenamento_processamento_Paralelo</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/04.Cloud_Computing\">04.Cloud_Computing</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/05.Machine_Learning\">05.Machine_Learning</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/06.Dados_servi%C3%A7os\">06.Dados_serviços</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/07.ETL\">07.ETL</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/08.Projeto_Big_Data\">08.Projeto_Big_Data</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/4529103236b0c71869ff1b9184972b55d363b972c43627b5350823b966932bb9/68747470733a2f2f7777772e706e676d6172742e636f6d2f66696c65732f372f507974686f6e2d504e472d496d6167652e706e67\"><img:2
+src=\"https://camo.githubusercontent.com/4529103236b0c71869ff1b9184972b55d363b972c43627b5350823b966932bb9/68747470733a2f2f7777772e706e676d6172742e636f6d2f66696c65732f372f507974686f6e2d504e472d496d6167652e706e67\":2
+data-canonical-src=\"https://www.pngmart.com/files/7/Python-PNG-Image.png\":2
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/01.Big_Data_Conceitos\">01.Fundamentos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/02.Fundamentos\">02.POO</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_02/BIG_DATA/03.Armazenamento_processamento_Paralelo\">03.Exercícios</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/f2cf3703c26f0c740e8c330337bec61fc9da26961dad6cd6e0075ca537e4e6cf/68747470733a2f2f6c6f676f706e672e636f6d2e62722f6c6f676f732f646f636b65722d32372e706e67\"><img:1        
+width=\"150\":1
+height=\"120\":1
+src=\"https://camo.githubusercontent.com/f2cf3703c26f0c740e8c330337bec61fc9da26961dad6cd6e0075ca537e4e6cf/68747470733a2f2f6c6f676f706e672e636f6d2e62722f6c6f676f732f646f636b65722d32372e706e67\":1
+data-canonical-src=\"https://logopng.com.br/logos/docker-27.png\":1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/01.Docker\">01.Docker</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/02.Container\">02.Container</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/03.Container%20x%20imagem\">03.Container:1
+x:1
+Imagem</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/04.Volumes\">04.Volumes</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/05.Container%20com%20redes\">05.Container:1
+redes</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/06.Docker%20compose\">06.Docker:1
+Compose</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Conte%C3%BAdo/07.Docker%20Swarm\">07.Docker:1
+Swarm</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Docker/Exerc%C3%ADcios\">08.Exercícios</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/93f290bd0a2e84d811d0cfac0ef20a056b455e78ce353a96c920fa909c0dfbfe/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d3363333463646631366563303336363536323033623062393631636231363833\"><img:1
+src=\"https://camo.githubusercontent.com/93f290bd0a2e84d811d0cfac0ef20a056b455e78ce353a96c920fa909c0dfbfe/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d3363333463646631366563303336363536323033623062393631636231363833\":1
+data-canonical-src=\"https://qph.cf2.quoracdn.net/main-qimg-3c34cdf16ec036656203b0b961cb1683\":1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/01.Conhecimentos%20B%C3%A1sicos\">01.Conhecimentos:1
+básicos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/02.Fundamentos\">02.Fundamentos</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/03.Representa%C3%A7%C3%A3o%20Gr%C3%A1fica\">03.Representação:1
+Gráfica</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/04.Medidas%20de%20Tend%C3%AAncia%20Central\">04.Medidas:1
+Tendencia:1
+Central</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/05.Medidas%20de%20Dispers%C3%A3o\">05.Medidas:1
+Dispersão</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Estat%C3%ADsticas/Conte%C3%BAdo/06.Medidas%20de%20Assimetria\">06.Medidas:1
+Assimetria</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Python%20Funcional/Conte%C3%BAdo\">01.Programação:1
+Funcional</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_04/Python%20Funcional/Exerc%C3%ADcios\">02.Exercícios</a></li>\n</ul>\n<hr>\n<div:1
+href=\"https://camo.githubusercontent.com/dc0f2f90c538b8ee0bc595ade476fdab6a3311c38cf9948a446ae0aca2fb7a53/68747470733a2f2f7777772e6974657870657274732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032322f30362f31343137313332392f3234362d323436373137375f6177732d6c6f676f2d706e672d667265652d73746f636b2d6177732d6c6f676f2d706e672e706e67\"><img:2
+height=\"80\":2
+src=\"https://camo.githubusercontent.com/dc0f2f90c538b8ee0bc595ade476fdab6a3311c38cf9948a446ae0aca2fb7a53/68747470733a2f2f7777772e6974657870657274732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032322f30362f31343137313332392f3234362d323436373137375f6177732d6c6f676f2d706e672d667265652d73746f636b2d6177732d6c6f676f2d706e672e706e67\":2
+data-canonical-src=\"https://www.itexperts.com.br/wp-content/uploads/2022/06/14171329/246-2467177_aws-logo-png-free-stock-aws-logo-png.png\":2
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_05/AWS/01.Conte%C3%BAdo\">01.Conteúdo</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_05/AWS/02.Certificados\">02.Certificados</a></li>\n<li><a:1
+href=\"https://www.credly.com/users/geronimo-morais\":1
+rel=\"nofollow\">03.Perfil:1
+Credly</a></li>\n</ul>\n<hr>\n<hr>\n<div:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_06/01Conte%C3%BAdo\">01.Conteúdo</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_06/02.Certificados\">02.Certificados</a></li>\n<li><a:1
+href=\"https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_06/03.Exerc%C3%ADcios\">03.Exercícios</a></li>\n<li><a:1
+href=\"https://www.youtube.com/watch?v=V28LjQrokY8\":1
+rel=\"nofollow\">04.Video:1
+Resumo:1
+da:1
+Sprint</a></li>\n</ul>\n<hr>\n</article>","renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"Geronimonetto","repoName":"Engenharia_dados_AWS","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/Geronimonetto/Engenharia_dados_AWS/branches":{"post":"3smTwoptpg1jiqBYNxySkXRr4jY1Lqq8M_0ypWQSY8JO6PByK0L_vpTHbCpKuN5t_Y2TaTf4_RlG8RaymY4zyQ"},"/repos/preferences":{"post":"-BIDbT4VNlStdf2_ZrcswQVZNVNcDXuLoOsBWgnNo2vzXI0cX_SiaXJ24tA6cmLLb2MMN7OSQaBPRSiOfHAd2Q"}}},"title":"Engenharia_dados_AWS/README.md:1
+at:1
+main:1
+·:1
