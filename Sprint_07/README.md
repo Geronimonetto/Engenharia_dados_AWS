@@ -8,7 +8,7 @@
 ---
 
 - [01.Conteúdo]()
-- [02.Certificados])
+- [02.Certificados]
 - [03.Exercícios]()
 - [04.Video Resumo da Sprint]()
 ---
