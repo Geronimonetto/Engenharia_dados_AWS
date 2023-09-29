@@ -210,8 +210,8 @@
 
 ---
 
-- [01.Conteúdo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_06/01Conte%C3%BAdo)
-- [02.Certificados](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_06/02.Certificados)
-- [03.Exercícios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_06/03.Exerc%C3%ADcios)
-- [04.Video Resumo da Sprint](https://www.youtube.com/watch?v=V28LjQrokY8)
+- [01.Conteúdo]()
+- [02.Certificados])
+- [03.Exercícios]()
+- [04.Video Resumo da Sprint]()
 ---
