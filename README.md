@@ -210,8 +210,9 @@
 
 ---
 
-- [01.Conteúdo]()
-- [02.Certificados])
-- [03.Exercícios]()
-- [04.Video Resumo da Sprint]()
+- [01.Conteúdo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_07/01.Conte%C3%BAdo)
+- [02.Certificados]()
+- [03.Exercícios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_07/04.Exerc%C3%ADcios)
+- [04.Video Resumo da Sprint](https://youtu.be/b-fgQUJ1c7k)
 ---
+
