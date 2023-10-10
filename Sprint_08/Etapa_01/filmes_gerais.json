@@ -1,0 +1,396 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "Em 1945, Don Corleone \u00e9 o chefe de uma mafiosa fam\u00edlia italiana de Nova York. Ele costuma apadrinhar v\u00e1rias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as fam\u00edlias come\u00e7am uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narc\u00f3ticos na cidade, n\u00e3o oferecendo ajuda pol\u00edtica e policial, sua fam\u00edlia come\u00e7a a sofrer atentados para que mudem de posi\u00e7\u00e3o. \u00c9 nessa complicada \u00e9poca que Michael, um her\u00f3i de guerra nunca envolvido nos neg\u00f3cios da fam\u00edlia, v\u00ea a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+            "popularity": 108.775,
+            "poster_path": "/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+            "release_date": "1972-03-14",
+            "title": "O Poderoso Chef\u00e3o",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 18696
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homic\u00eddio de sua esposa e do amante dela. Ele \u00e9 mandado para uma pris\u00e3o que \u00e9 o pesadelo de qualquer detento, a Penitenci\u00e1ria Estadual de Shawshank, no Maine. L\u00e1 ele ir\u00e1 cumprir a pena perp\u00e9tua. Andy logo ser\u00e1 apresentado a Warden Norton, o corrupto e cruel agente penitenci\u00e1rio, que usa a B\u00edblia como arma de controle e ao Capit\u00e3o Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena h\u00e1 20 anos e controla o mercado negro da institui\u00e7\u00e3o.",
+            "popularity": 104.781,
+            "poster_path": "/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+            "release_date": "1994-09-23",
+            "title": "Um Sonho de Liberdade",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 24673
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather Part II",
+            "overview": "Ap\u00f3s a m\u00e1fia matar sua fam\u00edlia, o jovem Vito foge da sua cidade na Sic\u00edlia e vai para a Am\u00e9rica. Vito luta para manter sua fam\u00edlia. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua fam\u00edlia \u00e9 o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incurs\u00f5es em Las Vegas e Havana instalando neg\u00f3cios ligados ao lazer, mas descobre que aliados como Hyman Roth est\u00e3o tentando mat\u00e1-lo.",
+            "popularity": 73.593,
+            "poster_path": "/7g6wvsWHxBQujUcSXvZLhdFpDUy.jpg",
+            "release_date": "1974-12-20",
+            "title": "O Poderoso Chef\u00e3o: Parte II",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 11304
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 424,
+            "original_language": "en",
+            "original_title": "Schindler's List",
+            "overview": "O alem\u00e3o Oskar Schindler viu na m\u00e3o de obra judia uma solu\u00e7\u00e3o barata e vi\u00e1vel para lucrar com neg\u00f3cios durante a guerra. Com sua forte influ\u00eancia dentro do partido nazista, foi f\u00e1cil conseguir as autoriza\u00e7\u00f5es e abrir uma f\u00e1brica. O que poderia parecer uma atitude de um homem n\u00e3o muito bondoso, transformou-se em um dos maiores casos de amor \u00e0 vida da Hist\u00f3ria, pois este alem\u00e3o abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o exterm\u00ednio alem\u00e3o.",
+            "popularity": 62.24,
+            "poster_path": "/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg",
+            "release_date": "1993-12-15",
+            "title": "A Lista de Schindler",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 14615
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vI3aUGTuRRdM7J78KIdW98LdxE5.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 19404,
+            "original_language": "hi",
+            "original_title": "\u0926\u093f\u0932\u0935\u093e\u0932\u0947 \u0926\u0941\u0932\u094d\u0939\u0928\u093f\u092f\u093e \u0932\u0947 \u091c\u093e\u092f\u0947\u0902\u0917\u0947",
+            "overview": "Raj e Simran s\u00e3o dois jovens indianos vivendo em Londres que, acidentalmente, se conhecem durante uma viagem pela Europa. Eles se apaixonam, mas Simran est\u00e1 prometida a um indiano. Raj n\u00e3o desanima e segue seu amor at\u00e9 a \u00cdndia, onde os dois tentam convencer a todos que precisam ficar juntos.",
+            "popularity": 26.696,
+            "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+            "release_date": "1995-10-20",
+            "title": "Dilwale vai levar a noiva",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 4257
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 389,
+            "original_language": "en",
+            "original_title": "12 Angry Men",
+            "overview": "Um jovem porto-riquenho \u00e9 acusado do brutal crime de ter matado o pr\u00f3prio pai. Quando ele vai a julgamento, doze jurados se re\u00fanem para decidir a senten\u00e7a, levando em conta que o r\u00e9u deve ser considerado inocente at\u00e9 que se prove o contr\u00e1rio. Onze dos jurados t\u00eam plena certeza de que ele \u00e9 culpado, e votam pela condena\u00e7\u00e3o, mas um jurado acha que \u00e9 melhor investigar mais para que a senten\u00e7a seja correta. Para isso ele ter\u00e1 que enfrentar diferentes interpreta\u00e7\u00f5es dos fatos, e a m\u00e1 vontade dos outros jurados, que s\u00f3 querem ir logo para suas casas.",
+            "popularity": 43.045,
+            "poster_path": "/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
+            "release_date": "1957-04-10",
+            "title": "12 Homens e uma Senten\u00e7a",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 7669
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 129,
+            "original_language": "ja",
+            "original_title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
+            "overview": "Chihiro e seus pais est\u00e3o se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ningu\u00e9m esteja por perto. Chihiro sente o perigo, mas seus pais come\u00e7am a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salv\u00e1-los",
+            "popularity": 75.56,
+            "poster_path": "/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
+            "release_date": "2001-07-20",
+            "title": "A Viagem de Chihiro",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 14926
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+            "genre_ids": [
+                35,
+                53,
+                18
+            ],
+            "id": 496243,
+            "original_language": "ko",
+            "original_title": "\uae30\uc0dd\ucda9",
+            "overview": "Toda a fam\u00edlia de Ki-taek est\u00e1 desempregada, vivendo num por\u00e3o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da fam\u00edlia comece a dar aulas de ingl\u00eas \u00e0 garota de uma fam\u00edlia rica. Fascinados com a vida luxuosa destas pessoas, pai, m\u00e3e, filho e filha bolam um plano para se infiltrarem tamb\u00e9m na fam\u00edlia burguesa, um a um. No entanto, os segredos e mentiras necess\u00e1rios \u00e0 ascens\u00e3o social custar\u00e3o caro a todos.",
+            "popularity": 73.534,
+            "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+            "release_date": "2019-05-30",
+            "title": "Parasita",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 16443
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+            "genre_ids": [
+                10749,
+                16,
+                18
+            ],
+            "id": 372058,
+            "original_language": "ja",
+            "original_title": "\u541b\u306e\u540d\u306f\u3002",
+            "overview": "Mitsuha \u00e9 a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em T\u00f3quio. Taki trabalha em um restaurante em T\u00f3quio e deseja largar o seu emprego. Os dois n\u00e3o se conhecem, mas est\u00e3o conectados pelas imagens de seus sonhos.",
+            "popularity": 88.455,
+            "poster_path": "/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
+            "release_date": "2016-08-26",
+            "title": "Your Name",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 10312
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Ap\u00f3s dois anos desde o surgimento do Batman, os criminosos de Gotham City t\u00eam muito o que temer. Com a ajuda do tenente James Gordon e do promotor p\u00fablico Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+            "popularity": 109.35,
+            "poster_path": "/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg",
+            "release_date": "2008-07-16",
+            "title": "Batman: O Cavaleiro das Trevas",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 30641
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+            "genre_ids": [
+                14,
+                18,
+                80
+            ],
+            "id": 497,
+            "original_language": "en",
+            "original_title": "The Green Mile",
+            "overview": "Milagres acontecem em lugares inesperados, mesmo no bloco de celas para o corredor da morte na Penitenci\u00e1ria Cold Mountain. L\u00e1, John Coffey, um gentil e gigante prisioneiro com poderes sobrenaturais, traz um senso de esp\u00edrito e humanidade aos seus guardas e colegas de cela.",
+            "popularity": 66.588,
+            "poster_path": "/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
+            "release_date": "1999-12-10",
+            "title": "\u00c0 Espera de um Milagre",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 15954
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 680,
+            "original_language": "en",
+            "original_title": "Pulp Fiction",
+            "overview": "Vincent Vega (John Travolta) e Jules Winnfield (Samuel L. Jackson) s\u00e3o dois assassinos profissionais que trabalham fazendo cobran\u00e7as para Marsellus Wallace (Ving Rhames), um poderosos g\u00e2ngster. Vega \u00e9 for\u00e7ado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge (Bruce Willis) se mete em apuros por ganhar uma luta que deveria perder.",
+            "popularity": 102.864,
+            "poster_path": "/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+            "release_date": "1994-09-10",
+            "title": "Pulp Fiction: Tempo de Viol\u00eancia",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 25915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13,
+            "original_language": "en",
+            "original_title": "Forrest Gump",
+            "overview": "Quarenta anos da hist\u00f3ria dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da m\u00e9dia e com boas inten\u00e7\u00f5es. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietn\u00e3 e o Caso Watergate, mas continua pensando no seu amor de inf\u00e2ncia, Jenny Curran.",
+            "popularity": 70.018,
+            "poster_path": "/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+            "release_date": "1994-06-23",
+            "title": "Forrest Gump: O Contador de Hist\u00f3rias",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 25430
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eoCSp75lxatmIa6aGqfnzwtbttd.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 429,
+            "original_language": "it",
+            "original_title": "Il buono, il brutto, il cattivo",
+            "overview": "Durante o auge da Guerra Civil, um misterioso pistoleiro vaga pela fronteira do oeste. Ele n\u00e3o possui um lar, lealdade ou companhia... At\u00e9 que encontra dois estrangeiros, que s\u00e3o t\u00e3o brutos e desapegados quanto ele. Unidos pelo destino, os tr\u00eas homens juntam suas for\u00e7as para tentar encontrar uma fortuna em ouro roubado. Mas trabalho em equipe n\u00e3o \u00e9 uma coisa natural para voluntariosos pistoleiros, e eles logo descobrem que seu maior desafio \u00e9 concentrar-se em sua perigosa miss\u00e3o \u2014 e em manterem-se vivos \u2014 atravessando um pa\u00eds arrasado pela guerra.",
+            "popularity": 86.874,
+            "poster_path": "/5KI3QNTtEUzuAOsX42aepAjHhYf.jpg",
+            "release_date": "1966-12-23",
+            "title": "Tr\u00eas Homens em Conflito",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 7756
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "O confronto final entre as for\u00e7as do bem e do mal que lutam pelo controle do futuro da Terra M\u00e9dia se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na inten\u00e7\u00e3o de ajudar a resist\u00eancia. Um ex\u00e9rcito \u00e9 reunido por Theoden em Rohan, em mais uma tentativa de deter as for\u00e7as de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo \u00e0 Montanha da Perdi\u00e7\u00e3o para destruir o anel.",
+            "popularity": 91.206,
+            "poster_path": "/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
+            "release_date": "2003-12-01",
+            "title": "O Senhor dos An\u00e9is: O Retorno do Rei",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 22355
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "Um jovem cresce na m\u00e1fia e trabalha arduamente para crescer entre seus companheiros. Ele gosta da vida de dinheiro e luxo, mas n\u00e3o liga para o horror que provoca. Infelizmente, a depend\u00eancia de drogas e alguns erros finalmente destroem sua escalada at\u00e9 o topo. Baseado no livro Wiseguy por Nicholas Pileggi.",
+            "popularity": 54.693,
+            "poster_path": "/fnJcBTbNNUkcNmjqc7fF5ozzLDk.jpg",
+            "release_date": "1990-09-12",
+            "title": "Os Bons Companheiros",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 11742
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gwj4R8Uy1GwejKqfofREKI9Jh7L.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10752
+            ],
+            "id": 12477,
+            "original_language": "ja",
+            "original_title": "\u706b\u5782\u308b\u306e\u5893",
+            "overview": "O filme relata a hist\u00f3ria de dois irm\u00e3os, Seita e Setsuko, no per\u00edodo da Segunda Guerra Mundial no Jap\u00e3o. O pai deles \u00e9 convocado para defender o pa\u00eds na guerra, pois faz parte da marinha japonesa e a m\u00e3e falece em um bombardeio de avi\u00f5es norte-americanos. A partir da\u00ed, o filme mostra a luta pela sobreviv\u00eancia das duas crian\u00e7as em meio \u00e0 pobreza e mis\u00e9ria que assola o pa\u00eds. Fome, doen\u00e7as e a falta de generosidade e sensibilidade dos adultos faz deste percurso um dos filmes mais bonitos e comoventes sobre o tr\u00e1gico quadro gerado pela guerra.",
+            "popularity": 0.6,
+            "poster_path": "/kREN2RkMqkzkoL0wLLqPxZqgyZ3.jpg",
+            "release_date": "1988-04-16",
+            "title": "O T\u00famulo dos Vagalumes",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 4868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 637,
+            "original_language": "it",
+            "original_title": "La vita \u00e8 bella",
+            "overview": "Durante a Segunda Guerra Mundial na It\u00e1lia, o judeu Guido e seu filho Giosu\u00e9 s\u00e3o levados para um campo de concentra\u00e7\u00e3o nazista. Afastado da mulher, ele tem que usar sua imagina\u00e7\u00e3o para fazer o menino acreditar que est\u00e3o participando de uma grande brincadeira, com o intuito de proteg\u00ea-lo do terror e da viol\u00eancia que os cercam.",
+            "popularity": 44.077,
+            "poster_path": "/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg",
+            "release_date": "1997-12-20",
+            "title": "A Vida \u00e9 Bela",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 12235
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11216,
+            "original_language": "it",
+            "original_title": "Nuovo Cinema Paradiso",
+            "overview": "Um diretor de cinema lembra como, em sua inf\u00e2ncia, ele se apaixonou pelo cinema de sua cidade e iniciou uma profunda amizade com o projetista.",
+            "popularity": 32.965,
+            "poster_path": "/vjB2KkwdPp1Jk0LxCKfBFXJQVAo.jpg",
+            "release_date": "1988-11-17",
+            "title": "Cinema Paradiso",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 3961
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 346,
+            "original_language": "ja",
+            "original_title": "\u4e03\u4eba\u306e\u4f8d",
+            "overview": "No s\u00e9culo XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados, pois eram agora desprezados pelos seus aristocr\u00e1ticos senhores. Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladr\u00f5es assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins (samurais sem mestre), que concordam em ensinar os habitantes como devem se defender em troca de comida. Os alde\u00f5es d\u00e3o boas-vindas aos guerreiros e algumas rela\u00e7\u00f5es come\u00e7am. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham dist\u00e2ncia dos camponeses. O \u00faltimo dos guerreiros que chega \u00e9 Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade \u00e9 o filho de um campon\u00eas que almeja aceita\u00e7\u00e3o.",
+            "popularity": 34.331,
+            "poster_path": "/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
+            "release_date": "1954-04-26",
+            "title": "Os Sete Samurais",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 3234
+        }
+    ],
+    "total_pages": 578,
+    "total_results": 11551
+}
