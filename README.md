@@ -6,11 +6,11 @@
   <h3>IDADE</h3><i> 28 anos</i>
   <h3>CIDADE</h3> <i>Recife-PE</i>
   <h3>INSTITUIÇÃO</h3><i> UNINABUCO</i>
-  <h3>SEMESTRE ATUAL</h3><i> 4° Semestre</i>
+  <h3>PERÍODO ATUAL</h3><i>Ultimo Período</i>
   <h3>EXPERIÊNCIA </h3><i>Primeira oportunidade na área de tecnologia com a Compass.UOL</i>
   <h3>HOBBIES</h3> <i>Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</i>
   <h3>SKILLS</h3><i>Proatividade, Comunicação, Empatia, Determinação</i>
-  <h3>LEARNING</h3><i> AWS Skill Builder </i>
+  <h3>LEARNING</h3><i> Spark / Python e Serviços da AWS</i>
   
 </div>
 <div align="Center">
