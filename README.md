@@ -10,7 +10,7 @@
   <h3>EXPERIÊNCIA </h3><i>Primeira oportunidade na área de tecnologia com a Compass.UOL</i>
   <h3>HOBBIES</h3> <i>Amo ler livros, academia e corrida e sempre que dá gosto de jogar jogos como FIFA/NBA</i>
   <h3>SKILLS</h3><i>Proatividade, Comunicação, Empatia, Determinação</i>
-  <h3>LEARNING</h3><i> Spark / Python e Serviços da AWS</i>
+  <h3>LEARNING</h3><i> Desafio Final Etapa 01</i>
   
 </div>
 <div align="Center">
@@ -214,5 +214,20 @@
 - [02.Certificados]()
 - [03.Exercícios](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_07/04.Exerc%C3%ADcios)
 - [04.Video Resumo da Sprint](https://youtu.be/b-fgQUJ1c7k)
+---
+
+
+<div align="Center">
+  <img width = "80" Height= "80" src="https://cdn-icons-png.flaticon.com/512/9698/9698964.png">
+
+</div>
+
+---
+
+- [01.Etapa 01](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_08/Etapa_01)
+- [02.Etapa_02](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_08/Etapa_02)
+- [03.Etapa_03](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_08/Etapa_03)
+- [04.Etapa_04](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_08/Etapa_04)
+- [05.Video de Resumo da SPRINT](https://youtu.be/Kwj9n8kY7X0)
 ---
 
