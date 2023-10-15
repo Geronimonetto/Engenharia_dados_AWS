@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bd6d64-c887-4bf2-887b-8eb0e815f893" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/02.Zipando Camada.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/02.Zipando Camada.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.Código para buscar filmes de terror.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.Código para requisição de filmes de mistério.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07.Código para requisição de series de mistério.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigo_Series_misterio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigo_misterio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigo_terror.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda_function2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Projetos_github/Sprint_08/Etapa_02"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projetos_github\Sprint_08\Etapa_02" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,39 +56,44 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
           <line>75</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
+          <url>file://$PROJECT_DIR$/lambda_function_movies.py</url>
           <line>74</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function2.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

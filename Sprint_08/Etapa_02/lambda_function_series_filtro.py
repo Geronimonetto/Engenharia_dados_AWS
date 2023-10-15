@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import boto3
 import requests
-import os
 
 def upload_to_s3(data, bucket_name, s3_key):
     session = boto3.Session(
@@ -52,15 +51,11 @@ def lambda_handler(event, context):
             response = requests.get(url)
             data = response.json()
 
-            matching_row = horror_movies[horror_movies.iloc[:, 1] == id_movie]
-
-            print(f"id_movie: {id_movie}")
-            print(f"matching_row: {matching_row}")
-
-            if not matching_row.empty:
-                matching_data = matching_row.iloc[0].to_dict()
-                matching_data.update(data['results'][0])
-                dados.append(matching_data)
+            verify_match = horror_movies[horror_movies.iloc[:, 1] == id_movie]
+            if 'results' in data and len(data['results']) > 0:
+                dados.append(data['results'][0])
+            else:
+                continue
 
             if len(dados) == 100:
                 # Fazer upload dos dados diretamente para o S3

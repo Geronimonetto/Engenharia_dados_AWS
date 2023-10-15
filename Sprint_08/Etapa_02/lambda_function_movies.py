@@ -42,6 +42,7 @@ def lambda_handler(event, context):
     """
     func: A Função trata-se de uma função parametro do AWS Lambda, porém o código em si restante trata-se de
     transformar os dados buscados no S3 em um dataframe para combinar com os dados da API do TMDB
+    
     Parameters
     ----------
     event
