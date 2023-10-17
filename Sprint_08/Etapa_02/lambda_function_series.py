@@ -94,7 +94,7 @@ def lambda_handler(event, context):
             # Verificando se a combinação tem ao menos 1 linha e transforma em um dicionário
             if not verify_condition.empty:
                 combination_data = verify_condition.iloc[0].to_dict()
-                combination_data.update(data['movies_results'])
+                combination_data.update(data)
                 dados.append(combination_data)
 
             if len(dados) == 100:
