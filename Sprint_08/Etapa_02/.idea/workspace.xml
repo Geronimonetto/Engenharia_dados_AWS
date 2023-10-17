@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15bd6d64-c887-4bf2-887b-8eb0e815f893" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lambda_function_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_function_series.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lambda_function_series_filtro.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_function_series_filtro.py" afterDir="false" />
     </list>

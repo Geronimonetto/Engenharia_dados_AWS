@@ -39,7 +39,7 @@ def upload_to_s3(data: list, bucket_name: str, s3_key: str) -> None:
         print(f"Erro ao enviar os dados para o S3: {str(e)}")
 
 
-def lambda_handler():
+def lambda_handler(event, context):
     """
     func: A Função trata-se de uma função parametro do AWS Lambda, porém o código em si restante trata-se de
     transformar os dados buscados no S3 em um dataframe para combinar com os dados da API do TMDB
@@ -88,14 +88,7 @@ def lambda_handler():
             response = requests.get(url)
             data = response.json()
 
-            # Combinando dados do dataframe com os da consulta da API
-            verify_condition = horror_movies[horror_movies['id'] == id_movie]
-
-            # Verificando se a combinação tem ao menos 1 linha e transforma em um dicionário
-            if not verify_condition.empty:
-                combination_data = verify_condition.iloc[0].to_dict()
-                combination_data.update(data)
-                dados.append(combination_data)
+            dados.append(data)
 
             if len(dados) == 100:
                 # Fazendo upload dos dados diretamente para o S3
@@ -118,4 +111,3 @@ def lambda_handler():
         'statusCode': 200,
         'body': 'JSON enviado para o S3'
     }
-lambda_handler()
