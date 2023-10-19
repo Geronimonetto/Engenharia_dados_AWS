@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import boto3
 import requests
+from concurrent.futures import ThreadPoolExecutor
 
 
 def upload_to_s3(data: list, bucket_name: str, s3_key: str) -> None:
@@ -40,22 +41,6 @@ def upload_to_s3(data: list, bucket_name: str, s3_key: str) -> None:
 
 
 def lambda_handler(event, context):
-    """
-    func: A Função trata-se de uma função parametro do AWS Lambda, porém o código em si restante trata-se de
-    transformar os dados buscados no S3 em um dataframe para combinar com os dados da API do TMDB
-
-    Parameters
-    ----------
-    event
-    context
-
-    Returns
-    -------
-
-    """
-    dados = []  # Lista para adicionar os dados que vão para o json
-    n_file = 1  # Numero para ordenar o nome dos arquivos
-
     session = boto3.Session(
         aws_access_key_id='AKIAZYAXJ7CO2LO2CJG2',
         aws_secret_access_key='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'
@@ -64,49 +49,68 @@ def lambda_handler(event, context):
     s3_client = session.client('s3')
 
     bucket_name = 'data-lake-desafio-final'
-    s3_file_name = 'Raw/Local/CSV/Movies/2023/09/26/series.csv'
+    s3_file_name = 'Raw/Local/CSV/Series/2023/09/26/series.csv'
 
     try:
-        genero = 'Horror'
-
+        genero1 = 'Horror'
+        genero2 = 'Mystery'
         # Setando o objeto do bucket S3 que queremos buscar
         objeto = s3_client.get_object(Bucket=bucket_name, Key=s3_file_name)
 
         # Transformando o objeto setado do S3 em um dataframe
         df = pd.read_csv(objeto['Body'], sep='|', na_values=[r'\N'], dtype={'NomeDaColuna': str})
-        horror_movies = df[df['genero'] == genero]
 
-        # Removendo filmes duplicados com base em uma coluna-chave, por exemplo, a coluna 'id'
-        horror_movies = horror_movies.drop_duplicates(subset='id')
+        # Dataframe com filmes de Horror
+        movies_horror = df[df['genero'].str.contains(genero1, case=True, na=False)]
 
-        # Buscando os id do dataframe por genero e colocando em uma lista para iterar
-        movies = horror_movies['id'].tolist()
+        # Dataframe com filmes de misterio
+        movies_mystery = df[df['genero'].str.contains(genero2, case=True, na=False)]
+
+        # Unindo os 2 Dataframes
+        all_movies = pd.concat([movies_horror, movies_mystery])
+
+        # Removendo valores duplicados
+        all_movies_no_duplicates = all_movies.drop_duplicates()
+
+        # Buscando id dos filmes no Dataframe
+        lista_ids = all_movies_no_duplicates['id'].tolist()
+
+        # Convertendo a lista de id para set, para remover duplicados
+        conjunto_ids = set(lista_ids)
+
+        # Convertendo em lista para iterar
+        lista_ids_unicos = list(conjunto_ids)
 
         api_key = "ea33ae145ce37250f8ab09b9583b7a7f"
-        for id_movie in movies:
+        dados = []  # Lista para adicionar os dados que vão para o JSON
+        n_file = 1  # Número para ordenar o nome dos arquivos
+
+        for id_movie in lista_ids_unicos:
             url = f'https://api.themoviedb.org/3/find/{id_movie}?api_key={api_key}&external_source=imdb_id'
             response = requests.get(url)
             data = response.json()
 
-            # Combinando dados do dataframe com os da consulta da API
-            verify_condition = horror_movies[horror_movies['id'] == id_movie]
+            if response.status_code == 200:
+                data = response.json()
 
-            # Verificando se a combinação tem ao menos 1 linha e transforma em um dicionário
-            if not verify_condition.empty:
-                combination_data = verify_condition.iloc[0].to_dict()
-                combination_data.update(data)
-                dados.append(combination_data)
+                if len(data['tv_results']) == 0:
+                    if len(data['movie_results']) > 0:
+                        dados.append(data['movie_results'][0])
+                    else:
+                        continue
+                else:
+                    dados.append(data['tv_results'][0])
 
-            if len(dados) == 100:
-                # Fazendo upload dos dados diretamente para o S3
-                s3_key = f'Raw/TMDB/JSON/Series/2023/10/13/{genero}/dados{n_file}.json'
-                upload_to_s3(dados, bucket_name, s3_key)
-                n_file += 1
-                dados.clear()
+                if len(dados) == 100:
+                    # Fazendo upload dos dados diretamente para o S3
+                    s3_key = f'Raw/TMDB/JSON/Series/2023/10/13/Horror-Mystery/dados{n_file}.json'
+                    upload_to_s3(dados, bucket_name, s3_key)
+                    n_file += 1
+                    dados.clear()
 
         # Fazendo upload de qualquer dado restante
         if dados:
-            s3_key = f'Raw/TMDB/JSON/Series/2023/10/13/{genero}/dados{n_file}.json'
+            s3_key = f'Raw/TMDB/JSON/Series/2023/10/13/Horror-Mystery/dados{n_file}.json'
             upload_to_s3(dados, bucket_name, s3_key)
         else:
             print(f"Nenhum dado a ser enviado para o S3.")
@@ -118,3 +122,4 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': 'JSON enviado para o S3'
     }
+
