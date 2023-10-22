@@ -1,0 +1,73 @@
+-- Criando tabela Cliente
+CREATE TABLE Cliente (
+    idCliente INT PRIMARY KEY,
+    nomeCliente VARCHAR(100),
+    cidadeCliente VARCHAR(40),
+    estadoCliente VARCHAR(40),
+    paisCliente VARCHAR(40)
+);
+
+-- Criando tabela Veículo
+CREATE TABLE Veiculo (
+    idCarro INT PRIMARY KEY,
+    kmCarro INT,
+    classiCarro VARCHAR(50),
+    marcaCarro VARCHAR(80),
+    modeloCarro VARCHAR(80),
+    anoCarro INT,
+    idCombustivel INT,
+    FOREIGN KEY (idCombustivel) REFERENCES Combustivel(idCombustivel)
+);
+
+-- Criando tabela Vendedor
+CREATE TABLE Vendedor (
+    idVendedor INT PRIMARY KEY,
+    nomeVendedor VARCHAR(15),
+    sexoVendedor SMALLINT,
+    estadoVendedor VARCHAR(40)
+);
+
+-- Criando tabela Locacao
+CREATE TABLE Locacao (
+    idLocacao INT PRIMARY KEY,
+    idCliente INT,
+    idCarro INT,
+    dataLocacao DATETIME,
+    horaLocacao TIME,
+    qtdDiaria INT,
+    vlrDiaria DECIMAL(18,2),
+    dataEntrega DATE,
+    horaEntrega TIME,
+    idVendedor INT,
+    FOREIGN KEY (idCliente) REFERENCES Cliente(idCliente),
+    FOREIGN KEY (idCarro) REFERENCES Veiculo(idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES Vendedor(idVendedor)
+);
+
+-- Criando tabela combustivel
+CREATE TABLE Combustivel (
+    idCombustivel INT PRIMARY KEY,
+    tipoCombustivel VARCHAR(20)
+);
+
+-- Inserindo valores da tabela tb_locacao dos Clientes na tabela Cliente
+INSERT or IGNORE INTO Cliente (idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente)
+SELECT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente FROM tb_locacao
+
+-- Inserindo valores da tabela tb_locacao dos Veiculo na tabela Veiculo
+INSERT or IGNORE INTO Veiculo (idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idCombustivel)
+SELECT idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idcombustivel
+FROM tb_locacao;
+
+-- Inserindo valores da tabela tb_locacao dos Vendedor na tabela Vendedor
+INSERT or IGNORE INTO Vendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
+SELECT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor FROM tb_locacao
+
+-- Inserindo valores da tabela tb_locacao das Locações na tabela Locacao
+INSERT or IGNORE INTO Locacao (idLocacao, idCliente, idCarro, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega, idVendedor)
+SELECT idLocacao, idCliente, idCarro, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega, idVendedor FROM tb_locacao
+
+-- Inserindo valores da tabela tb_locacao dos Combustíveis na tabela Combustivel
+INSERT or IGNORE INTO Combustivel (idCombustivel, tipoCombustivel)
+SELECT idCombustivel, tipoCombustivel FROM tb_locacao
+
