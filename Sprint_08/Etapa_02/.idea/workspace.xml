@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15bd6d64-c887-4bf2-887b-8eb0e815f893" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda_function_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_function_movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda_function_movies_filtro.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda_function_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_function_series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda_function_series_filtro.py" beforeDir="false" />
-    </list>
+    <list default="true" id="15bd6d64-c887-4bf2-887b-8eb0e815f893" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
