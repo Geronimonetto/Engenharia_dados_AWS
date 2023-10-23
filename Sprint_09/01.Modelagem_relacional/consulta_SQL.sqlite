@@ -52,7 +52,7 @@ CREATE TABLE Combustivel (
 
 -- Inserindo valores da tabela tb_locacao dos Clientes na tabela Cliente
 INSERT or IGNORE INTO Cliente (idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente)
-SELECT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente FROM tb_locacao
+SELECT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente FROM tb_locacao;
 
 -- Inserindo valores da tabela tb_locacao dos Veiculo na tabela Veiculo
 INSERT or IGNORE INTO Veiculo (idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idCombustivel)
@@ -61,13 +61,13 @@ FROM tb_locacao;
 
 -- Inserindo valores da tabela tb_locacao dos Vendedor na tabela Vendedor
 INSERT or IGNORE INTO Vendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
-SELECT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor FROM tb_locacao
+SELECT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor FROM tb_locacao;
 
 -- Inserindo valores da tabela tb_locacao das Locações na tabela Locacao
 INSERT or IGNORE INTO Locacao (idLocacao, idCliente, idCarro, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega, idVendedor)
-SELECT idLocacao, idCliente, idCarro, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega, idVendedor FROM tb_locacao
+SELECT idLocacao, idCliente, idCarro, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega, idVendedor FROM tb_locacao;
 
 -- Inserindo valores da tabela tb_locacao dos Combustíveis na tabela Combustivel
 INSERT or IGNORE INTO Combustivel (idCombustivel, tipoCombustivel)
-SELECT idCombustivel, tipoCombustivel FROM tb_locacao
+SELECT idCombustivel, tipoCombustivel FROM tb_locacao;
 

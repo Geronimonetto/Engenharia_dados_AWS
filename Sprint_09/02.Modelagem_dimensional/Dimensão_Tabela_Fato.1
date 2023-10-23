@@ -1,0 +1,24 @@
+CREATE view DimCliente AS
+SELECT * FROM Cliente;
+
+
+CREATE VIEW DimCarro AS
+SELECT idcarro, kmcarro, classicarro, marcacarro, modelocarro, anocarro, C.idcombustivel FROM Veiculo LEFT JOIN Combustivel as C ON Veiculo.idCombustivel = C.idCombustivel;
+
+
+CREATE view DimVendedor AS
+SELECT * FROM Vendedor;
+
+
+CREATE view FatoLocacao AS
+SELECT
+    L.idLocacao,
+    C.idCliente,
+    VD.idVendedor,
+    V.idCarro,
+    L.qtdDiaria,
+    L.vlrDiaria
+FROM Locacao L
+JOIN Cliente as  C ON L.idCliente = C.idCliente
+JOIN Veiculo as V ON L.idCarro = V.idCarro
+JOIN Vendedor as VD ON L.idVendedor = VD.idVendedor;												
