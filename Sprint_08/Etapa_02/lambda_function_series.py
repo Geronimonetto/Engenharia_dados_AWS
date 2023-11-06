@@ -2,9 +2,44 @@ import json
 import pandas as pd
 import boto3
 import requests
+from datetime import date
+
+api_key = "ea33ae145ce37250f8ab09b9583b7a7f"
+def id_imdb(list_id2):
+    lista_id_nova = []
+    for valor in list_id2:
+        url = f'https://api.themoviedb.org/3/find/{valor}?api_key={api_key}&external_source=imdb_id'
+        response = requests.get(url)
+        data = response.json()
+        if response.status_code == 200:
+            if len(data['tv_results']) > 0:
+                data = response.json()
+                lista_id_nova.append(data['tv_results'][0].get('id'))
+            else:
+                continue
+        else:
+            continue
+    return lista_id_nova
+def pages_gener():
+    dados = []
+    url = f'https://api.themoviedb.org/3/discover/tv?api_key={api_key}&with_genres=9648'
+    response = requests.get(url)
+    data = response.json()
+    total_pages = data['total_pages']
+    for valor in range(1, total_pages + 1):
+        url = f"https://api.themoviedb.org/3/discover/tv?page={valor}&api_key={api_key}&with_genres=9648"
+        response = requests.get(url)
+        if response.status_code == 200:
+            data = response.json()
+            resultados = data["results"]
+            ids = [filme["id"] for filme in resultados]
+            dados.extend(ids)
+        else:
+            continue
+    return dados
 
 
-def lambda_handler():
+def process_data(list_id):
     s3 = boto3.client('s3',
                       aws_access_key_id='AKIAZYAXJ7CO2LO2CJG2',
                       aws_secret_access_key='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'
@@ -42,50 +77,33 @@ def lambda_handler():
 
         # Convertendo em lista para iterar
         lista_ids_unicos = list(conjunto_ids)
-
-        api_key = "ea33ae145ce37250f8ab09b9583b7a7f"
+        list_id.extend(id_imdb(lista_ids_unicos))
         dados = []  # Lista para adicionar os dados que vão para o JSON
-        n_file = 1  # Número para ordenar o nome dos arquivos
+        n_file = 1  # Número para ordenar o nome dos arquivo
 
-        for id_movie in lista_ids_unicos:
-            url = f'https://api.themoviedb.org/3/find/{id_movie}?api_key={api_key}&external_source=imdb_id'
-            response = requests.get(url)
-            data = response.json()
-
-            if response.status_code == 200:
-                data = response.json()
-
-                if len(data['tv_results']) == 0:
-                    if len(data['movie_results']) > 0:
-                        dados.append(data['movie_results'][0])
-                    else:
-                        continue
-                else:
-                    pesquisa = data['tv_results'][0]['id']
-                    url = f'https://api.themoviedb.org/3/tv/{pesquisa}?api_key=ea33ae145ce37250f8ab09b9583b7a7f&append_response=credits'
-                    response_credits = requests.get(url)
-                    if response_credits.status_code == 200:
-                        data_credits = response_credits.json()
-                        dados.append(data_credits)
-                    else:
-                        continue
+        for id_serie in list_id:
+            url = f'https://api.themoviedb.org/3/tv/{id_serie}?api_key=ea33ae145ce37250f8ab09b9583b7a7f&append_response=credits'
+            response_credits = requests.get(url)
+            if response_credits.status_code == 200:
+                data_credits = response_credits.json()
+                dados.append(data_credits)
 
                 if len(dados) == 100:
                     json_file = json.dumps(dados, indent=4)
-                    json_clear = json_file[1:-1].replace("\n", "")
                     # Fazendo upload dos dados diretamente para o S3
-                    s3_key = f'Raw/TMDB/JSON/Series/2023/10/13/HorrorMystery/dados{n_file}.json'
-                    s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_clear)
+                    s3_key = f'Raw/TMDB/JSON/Series/{date.today().year}/{date.today().month}/{date.today().day}/HorrorMystery/dados{n_file}.json'
+                    s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_file)
                     n_file += 1
                     dados.clear()
+            else:
+                continue
 
         # Fazendo upload de qualquer dado restante
         if dados:
             json_file = json.dumps(dados, indent=4)
-            json_clear = json_file[1:-1].replace("\n", "")
             # Fazendo upload dos dados diretamente para o S3
-            s3_key = f'Raw/TMDB/JSON/Series/2023/10/13/HorrorMystery/dados{n_file}.json'
-            s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_clear)
+            s3_key = f'Raw/TMDB/JSON/Series/{date.today().year}/{date.today().month}/{date.today().day}/HorrorMystery/dados{n_file}.json'
+            s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_file)
             n_file += 1
             dados.clear()
         else:
@@ -99,4 +117,4 @@ def lambda_handler():
         'body': 'JSON enviado para o S3'
     }
 
-lambda_handler()
+process_data(pages_gener())

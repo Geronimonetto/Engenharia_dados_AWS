@@ -2,25 +2,14 @@ import json
 import pandas as pd
 import boto3
 import requests
+from datetime import date
 
 
-
-def lambda_handler(event, context):
-    """
-    func: A função recebe um objeto do S3 da AWS e filtra os dados de acordo com os generos solicitados
-    Parameters
-    ----------
-    event
-    context
-
-    Returns
-    -------
-
-    """
+def lambda_handler(event,context):
     s3 = boto3.client('s3',
-        aws_access_key_id='AKIAZYAXJ7CO2LO2CJG2',
-        aws_secret_access_key='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'
-    )
+                      aws_access_key_id='AKIAZYAXJ7CO2LO2CJG2',
+                      aws_secret_access_key='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'
+                      )
 
     bucket_name = 'data-lake-desafio-final'
     s3_file_name = 'Raw/Local/CSV/Movies/2023/09/26/movies.csv'
@@ -44,35 +33,32 @@ def lambda_handler(event, context):
         api_key = "ea33ae145ce37250f8ab09b9583b7a7f"
         dados = []  # Lista para adicionar os dados que vão para o JSON
         n_file = 1  # Número para ordenar o nome dos arquivos
-
         for id_movie in lista_ids_unicos:
-            url = f'https://api.themoviedb.org/3/movie/{id_movie}?api_key={api_key}&language=en-US&append_to_response=credits'  # API
+
+            url = f'https://api.themoviedb.org/3/movie/{id_movie}?api_key={api_key}&append_to_response=credits'
             response = requests.get(url)
+            data = response.json()
+
             if response.status_code == 200:
                 data = response.json()
                 dados.append(data)
+            else:
+                continue
 
-                if len(dados) == 100:
+            if len(dados) == 100:
+                json_file = json.dumps(dados, indent=4)
+                # Fazendo upload dos dados diretamente para o S3
+                s3_key = f'Raw/TMDB/JSON/Movies/{date.today().year}/{date.today().month}/{date.today().day}/HorrorMystery/dados{n_file}.json'
+                s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_file)
+                n_file += 1
+                dados.clear()
 
-                    # Transformando a lista 'dados' em um objeto JSON
-
-                    json_file = json.dumps(dados, indent=4)
-                    json_clear = json_file[1:-1].replace("\n", "")
-                    # Fazendo upload dos dados diretamente para o S3
-                    s3_key = f'Raw/TMDB/JSON/Movies/2023/10/13/HorrorMystery2/dados{n_file}.json'
-                    s3.put_object(Bucket = bucket_name,Key= s3_key,Body = json_clear )
-                    n_file += 1
-                    dados.clear()
-                    break
-                else:
-                    continue
-                # Fazendo upload de qualquer dado restante
+        # Fazendo upload de qualquer dado restante
         if dados:
             json_file = json.dumps(dados, indent=4)
-            json_clear = json_file[1:-1].replace("\n", "")
             # Fazendo upload dos dados diretamente para o S3
-            s3_key = f'Raw/TMDB/JSON/Movies/2023/10/13/HorrorMystery2/dados{n_file}.json'
-            s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_clear)
+            s3_key = f'Raw/TMDB/JSON/Series/{date.today().year}/{date.today().month}/{date.today().day}/HorrorMystery/dados{n_file}.json'
+            s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_file)
             n_file += 1
             dados.clear()
         else:

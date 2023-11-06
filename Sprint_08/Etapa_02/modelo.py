@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import boto3
 import requests
+from datetime import date
 
 def pages_gener():
     dados = []
@@ -56,6 +57,7 @@ def process_data(list_id):
 
         # Obter IDs únicos dos filmes
         lista_ids_unicos = all_movies['id'].unique().tolist()
+
         list_id.extend(lista_ids_unicos)
         api_key = "ea33ae145ce37250f8ab09b9583b7a7f"
         dados = []  # Lista para adicionar os dados que vão para o JSON
@@ -73,22 +75,19 @@ def process_data(list_id):
                     # Transformando a lista 'dados' em um objeto JSON
 
                     json_file = json.dumps(dados, indent=4)
-                    json_clear = json_file[1:-1].replace("\n", "")
                     # Fazendo upload dos dados diretamente para o S3
-                    s3_key = f'Raw/TMDB/JSON/Movies/2023/10/13/HorrorMystery2/dados{n_file}.json'
-                    s3.put_object(Bucket = bucket_name,Key= s3_key,Body = json_clear )
+                    s3_key = f'Raw/TMDB/JSON/Movies/{date.today().year}/{date.today().month}/{date.today().day}/HorrorMystery2/dados{n_file}.json'
+                    s3.put_object(Bucket = bucket_name,Key= s3_key,Body = json_file )
                     n_file += 1
                     dados.clear()
-                    break
                 else:
                     continue
                 # Fazendo upload de qualquer dado restante
         if dados:
             json_file = json.dumps(dados, indent=4)
-            json_clear = json_file[1:-1].replace("\n", "")
             # Fazendo upload dos dados diretamente para o S3
-            s3_key = f'Raw/TMDB/JSON/Movies/2023/10/13/HorrorMystery2/dados{n_file}.json'
-            s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_clear)
+            s3_key = f'Raw/TMDB/JSON/Movies/{date.today().year}/{date.today().month}/{date.today().day}/HorrorMystery2/dados{n_file}.json'
+            s3.put_object(Bucket=bucket_name, Key=s3_key, Body=json_file)
             n_file += 1
             dados.clear()
         else:
