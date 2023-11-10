@@ -49,34 +49,21 @@ def process_data(list_id):
     s3_file_name = 'Raw/Local/CSV/Series/2023/09/26/series.csv'
 
     try:
-        genero1 = 'Horror'
-        genero2 = 'Mystery'
-        # Setando o objeto do bucket S3 que queremos buscar
+        # Gêneros desejados
+        generos = ['Horror', 'Mystery']
+
+        # Obter objeto do bucket S3
         objeto = s3.get_object(Bucket=bucket_name, Key=s3_file_name)
 
-        # Transformando o objeto setado do S3 em um dataframe
+        # Ler arquivo CSV diretamente do objeto do S3 e criar DataFrame
         df = pd.read_csv(objeto['Body'], sep='|', na_values=[r'\N'], dtype={'NomeDaColuna': str})
 
-        # Dataframe com filmes de Horror
-        movies_horror = df[df['genero'].str.contains(genero1, case=True, na=False)]
+        # Filtrar filmes por gênero
+        all_movies = df[df['genero'].isin(generos)].drop_duplicates()
 
-        # Dataframe com filmes de misterio
-        movies_mystery = df[df['genero'].str.contains(genero2, case=True, na=False)]
+        # Obter IDs únicos dos filmes
+        lista_ids_unicos = all_movies['id'].unique().tolist()
 
-        # Unindo os 2 Dataframes
-        all_movies = pd.concat([movies_horror, movies_mystery])
-
-        # Removendo valores duplicados
-        all_movies_no_duplicates = all_movies.drop_duplicates()
-
-        # Buscando id dos filmes no Dataframe
-        lista_ids = all_movies_no_duplicates['id'].tolist()
-
-        # Convertendo a lista de id para set, para remover duplicados
-        conjunto_ids = set(lista_ids)
-
-        # Convertendo em lista para iterar
-        lista_ids_unicos = list(conjunto_ids)
         list_id.extend(id_imdb(lista_ids_unicos))
         dados = []  # Lista para adicionar os dados que vão para o JSON
         n_file = 1  # Número para ordenar o nome dos arquivo

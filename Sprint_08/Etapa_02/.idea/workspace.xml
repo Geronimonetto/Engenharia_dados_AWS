@@ -7,9 +7,7 @@
     <list default="true" id="15bd6d64-c887-4bf2-887b-8eb0e815f893" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda_function_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_function_movies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lambda_function_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda_function_series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,18 +85,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lambda_function_series.py</url>
-          <line>84</line>
-          <option name="timeStamp" value="153" />
+          <line>66</line>
+          <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lambda_function_series.py</url>
-          <line>83</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lambda_function_series.py</url>
-          <line>79</line>
-          <option name="timeStamp" value="161" />
+          <line>70</line>
+          <option name="timeStamp" value="166" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

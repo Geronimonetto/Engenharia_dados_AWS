@@ -5,7 +5,7 @@ import requests
 from datetime import date
 
 
-def lambda_handler(event,context):
+def lambda_handler(event, context):
     s3 = boto3.client('s3',
                       aws_access_key_id='AKIAZYAXJ7CO2LO2CJG2',
                       aws_secret_access_key='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'
