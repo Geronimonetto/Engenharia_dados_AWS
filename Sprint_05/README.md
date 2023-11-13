@@ -7,7 +7,7 @@
 
 ---
 
-- [01.Conteúdo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_05/AWS/01.Conte%C3%BAdo)
-- [02.Certificados](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_05/AWS/02.Certificados)
+- [01.Conteúdo](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_05/01.Conte%C3%BAdo)
+- [02.Certificados](https://github.com/Geronimonetto/Engenharia_dados_AWS/tree/main/Sprint_05/02.Certificados)
 - [03.Perfil Credly](https://www.credly.com/users/geronimo-morais)
 ---
